@@ -15,5 +15,5 @@ export const metadata = {
   ],
   logoURI:
     // eslint-disable-next-line max-len
-    'https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png',
+    'https://avatars.githubusercontent.com/u/154605801',
 }

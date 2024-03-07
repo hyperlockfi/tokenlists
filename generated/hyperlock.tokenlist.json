@@ -17,16 +17,15 @@
         "Token",
         "Swap"
     ],
-    "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-07T09:21:43.922Z",
+    "logoURI": "https://avatars.githubusercontent.com/u/154605801",
+    "timestamp": "2024-03-07T09:39:34.936Z",
     "tokens": [
         {
             "chainId": 1,
-            "address": "0x0447D3454b25935eeD47F65b4Bd22b9b23bE326a",
-            "name": "Opal",
-            "symbol": "GEM",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/34925/large/opal.jpeg?1706671563"
+            "address": "0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF",
+            "name": "Aura Finance",
+            "symbol": "aura",
+            "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png?1696525021"
         },
         {
             "chainId": 81457,
@@ -41,6 +40,20 @@
             "name": "WETH",
             "symbol": "weth",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x4300000000000000000000000000000000000004.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
+            "name": "Orbit Protocol",
+            "symbol": "orbit",
+            "logoURI": "https://assets.coingecko.com/coins/images/35675/large/orbit.png?1709520496"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A",
+            "name": "Pump",
+            "symbol": "pump",
+            "logoURI": "https://assets.coingecko.com/coins/images/35676/large/pump_%281%29.jpg?1709520871"
         }
     ]
 }

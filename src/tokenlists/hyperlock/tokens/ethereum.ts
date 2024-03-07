@@ -1,3 +1,3 @@
 export default [
-  '0x0447D3454b25935eeD47F65b4Bd22b9b23bE326a', // GEM
+  '0xc0c293ce456ff0ed870add98a0828dd4d2903dbf', // AURA
 ]
