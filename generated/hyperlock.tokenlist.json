@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-07T09:39:34.936Z",
+    "timestamp": "2024-03-07T16:45:23.463Z",
     "tokens": [
         {
             "chainId": 1,
@@ -54,6 +54,20 @@
             "name": "Pump",
             "symbol": "pump",
             "logoURI": "https://assets.coingecko.com/coins/images/35676/large/pump_%281%29.jpg?1709520871"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+            "name": "Aura Finance",
+            "symbol": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x999f220296b5843b2909cc5f8b4204aaca5341d8",
+            "name": "Metastreet Punks",
+            "symbol": "mwsteth:WPUNKS:40",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x999f220296b5843b2909cc5f8b4204aaca5341d8.png"
         }
     ]
 }
