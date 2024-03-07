@@ -5,7 +5,7 @@
 To create a new token list run:
 
 ```shell
-npm run tokenlists:create my-new-tokenlist
+pnpm run tokenlists:create my-new-tokenlist
 ```
 
 This will generate two files nest in a folder called

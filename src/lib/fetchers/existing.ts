@@ -67,7 +67,7 @@ function fetchLocalTokenIcons(network: Network): PartialTokenInfoMap {
     tokenIcons.push({
       address: getAddress(address),
       // eslint-disable-next-line max-len
-      logoURI: `https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/${fileName.toLowerCase()}.png`,
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${fileName.toLowerCase()}.png`,
     })
   })
 
@@ -105,11 +105,8 @@ export async function fetchExistingMetadata(
     network,
     existingTokenList
   )
-  const trustwalletTokenList = await fetchTrustWalletMetadata(network)
-
   // With merge, the last argument takes precedence
   return merge(
-    trustwalletTokenList,
     existingListMetadata,
     localTokenIcons,
     overwritesMetadata

@@ -61,20 +61,14 @@ async function build(tokenlistName: string) {
 
     console.time(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
 
-    let onchainMetadata: PartialTokenInfoMap
-    try {
-      onchainMetadata = await fetchOnchainMetadata(network, tokenAddresses)
-    } catch (e) {
-      if (network === Network.Zkevm) {
-        // Use existing ZKEVM token info when onchain ZKEVM errors
-        console.error(e)
-        const zkevmTokenInfo = readTokenInfo(tokenlistName, Number(network))
-        allTokens = allTokens.concat(zkevmTokenInfo)
-        continue
-      }
-      throw e
-    }
-    console.timeEnd(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
+    const onchainMetadata = {}
+    // let onchainMetadata: PartialTokenInfoMap
+    // try {
+    //   onchainMetadata = await fetchOnchainMetadata(network, tokenAddresses)
+    // } catch (e) {
+    //   throw e
+    // }
+    // console.timeEnd(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
 
     console.time(chalk.cyan(`Fetched existing metadata for chain ${network}`))
     const existingMetadata = await fetchExistingMetadata(
@@ -153,7 +147,7 @@ function satisfiesTokenInfoSchema({
   token: Partial<TokenInfo>
   includeOptionals: boolean
 }): boolean {
-  const requiredKeys = ['chainId', 'address', 'name', 'symbol', 'decimals']
+  const requiredKeys = ['chainId', 'address', 'name', 'symbol']
   if (includeOptionals) requiredKeys.push('logoURI')
 
   return requiredKeys.every((key) => token?.[key as keyof TokenInfo] != null)

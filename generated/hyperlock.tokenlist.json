@@ -1,0 +1,46 @@
+{
+    "name": "Hyperlock Listed",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": [
+        "Hyperlock",
+        "Thruster",
+        "DeFi",
+        "DEX",
+        "AMM",
+        "Exchange",
+        "Liquidity",
+        "Pool",
+        "Token",
+        "Swap"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
+    "timestamp": "2024-03-07T09:21:43.922Z",
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0x0447D3454b25935eeD47F65b4Bd22b9b23bE326a",
+            "name": "Opal",
+            "symbol": "GEM",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/34925/large/opal.jpeg?1706671563"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x4300000000000000000000000000000000000003",
+            "name": "USDB",
+            "symbol": "usdb",
+            "logoURI": "https://assets.coingecko.com/coins/images/35595/large/65c67f0ebf2f6a1bd0feb13c_usdb-icon-yellow.png?1709255427"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x4300000000000000000000000000000000000004",
+            "name": "WETH",
+            "symbol": "weth",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x4300000000000000000000000000000000000004.png"
+        }
+    ]
+}

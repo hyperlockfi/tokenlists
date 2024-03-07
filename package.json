@@ -6,7 +6,7 @@
     "generate": "ts-node src/generator.ts",
     "tokenlist:create": "node src/lib/scripts/create-tokenlist.js",
     "lint": "eslint . --ext .js,.ts --max-warnings 0",
-    "lint:fix": "npm run lint -- --fix",
+    "lint:fix": "pnpm run lint -- --fix",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage"
