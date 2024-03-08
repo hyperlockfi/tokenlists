@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-07T16:45:23.463Z",
+    "timestamp": "2024-03-08T10:07:17.469Z",
     "tokens": [
         {
             "chainId": 1,
@@ -59,7 +59,7 @@
             "chainId": 81457,
             "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
             "name": "Aura Finance",
-            "symbol": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+            "symbol": "AURA",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png"
         },
         {
@@ -68,6 +68,13 @@
             "name": "Metastreet Punks",
             "symbol": "mwsteth:WPUNKS:40",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x999f220296b5843b2909cc5f8b4204aaca5341d8.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f",
+            "name": "BAG",
+            "symbol": "BAG",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f.png"
         }
     ]
 }
