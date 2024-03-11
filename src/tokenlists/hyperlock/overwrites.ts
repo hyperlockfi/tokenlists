@@ -3,6 +3,7 @@ import { Network, OverwritesForList } from '../../types'
 
 export const overwrites: OverwritesForList = {
   [Network.Blast]: {
+    // tokens
     '0x999f220296b5843b2909cc5f8b4204aaca5341d8': {
       address: "0x999f220296b5843b2909cc5f8b4204aaca5341d8",
       name: "Metastreet Punks",
@@ -20,6 +21,25 @@ export const overwrites: OverwritesForList = {
       name: "BAG",
       symbol: "BAG",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f'}.png`
+    },
+    // points
+    'juice': {
+      address: "0x000000000000000000000000000000000000dead",
+      name: "JUICE",
+      symbol: "JUICE",
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'juice'}.png`
+    },
+    'metastreet': {
+      address: "0x000000000000000000000000000000000000dead",
+      name: "META",
+      symbol: "META",
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'metastreet'}.png`
+    },
+    'thruster': {
+      address: "0x000000000000000000000000000000000000dead",
+      name: "THRUST",
+      symbol: "THRUST",
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'thruster'}.png`
     },
   },
 }
