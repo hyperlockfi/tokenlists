@@ -37,8 +37,8 @@ export const overwrites: OverwritesForList = {
     },
     '0x0000000000000000000000000000000000000003': {
       address: "0x0000000000000000000000000000000000000003",
-      name: "THRUSTER",
-      symbol: "THRUSTER",
+      name: "THRUST",
+      symbol: "THRUST",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'thruster'}.png`
     },
     '0x0000000000000000000000000000000000000004': {

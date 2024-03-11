@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-11T17:19:05.749Z",
+    "timestamp": "2024-03-11T17:25:40.218Z",
     "tokens": [
         {
             "chainId": 1,
@@ -93,8 +93,8 @@
         {
             "chainId": 81457,
             "address": "0x0000000000000000000000000000000000000003",
-            "name": "THRUSTER",
-            "symbol": "THRUSTER",
+            "name": "THRUST",
+            "symbol": "THRUST",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/thruster.png"
         },
         {
