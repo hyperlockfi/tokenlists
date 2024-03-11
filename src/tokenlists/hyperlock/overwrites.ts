@@ -23,20 +23,20 @@ export const overwrites: OverwritesForList = {
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f'}.png`
     },
     // points
-    'juice': {
-      address: "0x000000000000000000000000000000000000dead",
+    '0x0000000000000000000000000000000000000001': {
+      address: "0x0000000000000000000000000000000000000001",
       name: "JUICE",
       symbol: "JUICE",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'juice'}.png`
     },
-    'metastreet': {
-      address: "0x000000000000000000000000000000000000dead",
+    '0x0000000000000000000000000000000000000002': {
+      address: "0x0000000000000000000000000000000000000002",
       name: "META",
       symbol: "META",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'metastreet'}.png`
     },
-    'thruster': {
-      address: "0x000000000000000000000000000000000000dead",
+    '0x0000000000000000000000000000000000000003': {
+      address: "0x0000000000000000000000000000000000000003",
       name: "THRUST",
       symbol: "THRUST",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'thruster'}.png`

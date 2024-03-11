@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-08T10:07:17.469Z",
+    "timestamp": "2024-03-11T16:56:25.122Z",
     "tokens": [
         {
             "chainId": 1,
@@ -75,6 +75,27 @@
             "name": "BAG",
             "symbol": "BAG",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x0000000000000000000000000000000000000001",
+            "name": "JUICE",
+            "symbol": "JUICE",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/juice.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x0000000000000000000000000000000000000001",
+            "name": "JUICE",
+            "symbol": "JUICE",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/juice.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x0000000000000000000000000000000000000003",
+            "name": "THRUST",
+            "symbol": "THRUST",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/thruster.png"
         }
     ]
 }
