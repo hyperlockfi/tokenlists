@@ -31,15 +31,27 @@ export const overwrites: OverwritesForList = {
     },
     '0x0000000000000000000000000000000000000002': {
       address: "0x0000000000000000000000000000000000000002",
-      name: "META",
-      symbol: "META",
+      name: "METASTREET",
+      symbol: "METASTREET",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'metastreet'}.png`
     },
     '0x0000000000000000000000000000000000000003': {
       address: "0x0000000000000000000000000000000000000003",
-      name: "THRUST",
-      symbol: "THRUST",
+      name: "THRUSTER",
+      symbol: "THRUSTER",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'thruster'}.png`
+    },
+    '0x0000000000000000000000000000000000000004': {
+      address: "0x0000000000000000000000000000000000000004",
+      name: "BLAST",
+      symbol: "BLAST",
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'blast'}.png`
+    },
+    '0x0000000000000000000000000000000000000005': {
+      address: "0x0000000000000000000000000000000000000005",
+      name: "HYPER",
+      symbol: "HYPER",
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'hyper'}.png`
     },
   },
 }

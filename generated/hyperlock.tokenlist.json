@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-11T17:12:35.410Z",
+    "timestamp": "2024-03-11T17:19:05.749Z",
     "tokens": [
         {
             "chainId": 1,
@@ -86,16 +86,30 @@
         {
             "chainId": 81457,
             "address": "0x0000000000000000000000000000000000000002",
-            "name": "META",
-            "symbol": "META",
+            "name": "METASTREET",
+            "symbol": "METASTREET",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/metastreet.png"
         },
         {
             "chainId": 81457,
             "address": "0x0000000000000000000000000000000000000003",
-            "name": "THRUST",
-            "symbol": "THRUST",
+            "name": "THRUSTER",
+            "symbol": "THRUSTER",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/thruster.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x0000000000000000000000000000000000000004",
+            "name": "BLAST",
+            "symbol": "BLAST",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/blast.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x0000000000000000000000000000000000000005",
+            "name": "HYPER",
+            "symbol": "HYPER",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/hyper.png"
         }
     ]
 }
