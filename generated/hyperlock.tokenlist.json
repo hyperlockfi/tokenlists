@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-11T16:56:25.122Z",
+    "timestamp": "2024-03-11T17:12:35.410Z",
     "tokens": [
         {
             "chainId": 1,
@@ -85,10 +85,10 @@
         },
         {
             "chainId": 81457,
-            "address": "0x0000000000000000000000000000000000000001",
-            "name": "JUICE",
-            "symbol": "JUICE",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/juice.png"
+            "address": "0x0000000000000000000000000000000000000002",
+            "name": "META",
+            "symbol": "META",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/metastreet.png"
         },
         {
             "chainId": 81457,
