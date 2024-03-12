@@ -77,5 +77,17 @@ export const overwrites: OverwritesForList = {
       symbol: "HYPER",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'hyper'}.png`
     },
+    '0x0000000000000000000000000000000000000006': {
+      address: "0x0000000000000000000000000000000000000006",
+      name: "RENZO",
+      symbol: "RENZO",
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'renzo'}.png`
+    },
+    '0x0000000000000000000000000000000000000007': {
+      address: "0x0000000000000000000000000000000000000007",
+      name: "EIGEN",
+      symbol: "EIGEN",
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'eigen'}.png`
+    },
   },
 }
