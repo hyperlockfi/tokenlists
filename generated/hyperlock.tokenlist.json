@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-12T21:13:11.579Z",
+    "timestamp": "2024-03-14T15:08:38.684Z",
     "tokens": [
         {
             "chainId": 1,
@@ -103,6 +103,20 @@
             "name": "YES",
             "symbol": "YES",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x9E0d7D79735e1c63333128149c7b616a0dC0bBDb",
+            "name": "Pirex Ether OFT",
+            "symbol": "pxETH",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/pxETH.svg"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+            "name": "Axelar Wrapped USDC",
+            "symbol": "axlETH",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/axlETH.svg"
         },
         {
             "chainId": 81457,
