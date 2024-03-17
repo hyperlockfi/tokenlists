@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-14T15:08:38.684Z",
+    "timestamp": "2024-03-17T20:16:04.268Z",
     "tokens": [
         {
             "chainId": 1,
@@ -117,6 +117,20 @@
             "name": "Axelar Wrapped USDC",
             "symbol": "axlETH",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/axlETH.svg"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x38CDfC4111B49F24784670D35C5b4D2d38ECb33B",
+            "name": "Drip Token",
+            "symbol": "DRIP",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x38cdfc4111b49f24784670d35c5b4d2d38ecb33b.jpg"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+            "name": "SwapBlast Finance Token",
+            "symbol": "SBF",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd07379a755a8f11b57610154861d694b2a0f615a.jpg"
         },
         {
             "chainId": 81457,

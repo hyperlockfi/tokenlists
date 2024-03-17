@@ -4,6 +4,18 @@ import { Network, OverwritesForList } from '../../types'
 export const overwrites: OverwritesForList = {
   [Network.Blast]: {
     // tokens
+    '0x38CDfC4111B49F24784670D35C5b4D2d38ECb33B': {
+      address: '0x38CDfC4111B49F24784670D35C5b4D2d38ECb33B',
+      name: 'Drip Token',
+      symbol: 'DRIP',
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'0x38cdfc4111b49f24784670d35c5b4d2d38ecb33b'}.jpg`
+    },
+    '0xd07379a755A8f11B57610154861D694b2A0f615a': {
+      address: '0xd07379a755A8f11B57610154861D694b2A0f615a',
+      name: 'SwapBlast Finance Token',
+      symbol: 'SBF',
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'0xd07379a755a8f11b57610154861d694b2a0f615a'}.jpg`
+    },
     '0xEB466342C4d449BC9f53A865D5Cb90586f405215': {
       address: '0xEB466342C4d449BC9f53A865D5Cb90586f405215',
       name: 'Axelar Wrapped USDC',
