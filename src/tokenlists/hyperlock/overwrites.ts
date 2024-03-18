@@ -32,13 +32,13 @@ export const overwrites: OverwritesForList = {
       address: '0xEB466342C4d449BC9f53A865D5Cb90586f405215',
       name: 'Axelar Wrapped USDC',
       symbol: 'axlETH',
-      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'axlETH'}.svg`
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'0xeb466342c4d449bc9f53a865d5cb90586f405215'}.svg`
     },
     '0x9E0d7D79735e1c63333128149c7b616a0dC0bBDb': {
       address: '0x9E0d7D79735e1c63333128149c7b616a0dC0bBDb',
       name: 'Pirex Ether OFT',
       symbol: 'pxETH',
-      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'pxETH'}.svg`
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'0x9e0d7d79735e1c63333128149c7b616a0dc0bbdb'}.svg`
     },
     '0x999f220296b5843b2909cc5f8b4204aaca5341d8': {
       address: "0x999f220296b5843b2909cc5f8b4204aaca5341d8",
