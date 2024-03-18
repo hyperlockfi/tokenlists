@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-18T10:12:21.640Z",
+    "timestamp": "2024-03-18T15:53:19.719Z",
     "tokens": [
         {
             "chainId": 1,
@@ -145,6 +145,13 @@
             "name": "Core Markets",
             "symbol": "CORE",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x233b23de890a8c21f6198d03425a2b986ae05536.jpg"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x67fa2887914fA3729e9EED7630294Fe124f417A0",
+            "name": "Yield Token",
+            "symbol": "YIELD",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x67fa2887914fa3729e9eed7630294fe124f417a0.svg"
         },
         {
             "chainId": 81457,
