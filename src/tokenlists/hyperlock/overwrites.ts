@@ -31,7 +31,7 @@ export const overwrites: OverwritesForList = {
     '0xEB466342C4d449BC9f53A865D5Cb90586f405215': {
       address: '0xEB466342C4d449BC9f53A865D5Cb90586f405215',
       name: 'Axelar Wrapped USDC',
-      symbol: 'axlETH',
+      symbol: 'axlUSDC',
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'0xeb466342c4d449bc9f53a865d5cb90586f405215'}.svg`
     },
     '0x9E0d7D79735e1c63333128149c7b616a0dC0bBDb': {

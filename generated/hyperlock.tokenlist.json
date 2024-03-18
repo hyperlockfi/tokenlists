@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-18T09:30:38.573Z",
+    "timestamp": "2024-03-18T10:12:21.640Z",
     "tokens": [
         {
             "chainId": 1,
@@ -115,7 +115,7 @@
             "chainId": 81457,
             "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
             "name": "Axelar Wrapped USDC",
-            "symbol": "axlETH",
+            "symbol": "axlUSDC",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xeb466342c4d449bc9f53a865d5cb90586f405215.svg"
         },
         {
