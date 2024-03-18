@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-17T20:16:04.268Z",
+    "timestamp": "2024-03-18T09:08:14.963Z",
     "tokens": [
         {
             "chainId": 1,
@@ -131,6 +131,20 @@
             "name": "SwapBlast Finance Token",
             "symbol": "SBF",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd07379a755a8f11b57610154861d694b2a0f615a.jpg"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
+            "name": "Andy",
+            "symbol": "ANDY",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8.jpg"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x233b23DE890A8c21F6198D03425a2b986AE05536",
+            "name": "Core Markets",
+            "symbol": "CORE",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x233b23de890a8c21f6198d03425a2b986ae05536.jpg"
         },
         {
             "chainId": 81457,
