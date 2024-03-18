@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-18T09:08:14.963Z",
+    "timestamp": "2024-03-18T09:14:41.795Z",
     "tokens": [
         {
             "chainId": 1,
@@ -137,7 +137,7 @@
             "address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
             "name": "Andy",
             "symbol": "ANDY",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8.jpg"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8.svg"
         },
         {
             "chainId": 81457,

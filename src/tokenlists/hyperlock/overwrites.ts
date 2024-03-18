@@ -8,7 +8,7 @@ export const overwrites: OverwritesForList = {
       address: '0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8',
       name: 'Andy',
       symbol: 'ANDY',
-      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8'}.jpg`
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8'}.svg`
     },
     '0x233b23DE890A8c21F6198D03425a2b986AE05536': {
       address: '0x233b23DE890A8c21F6198D03425a2b986AE05536',
