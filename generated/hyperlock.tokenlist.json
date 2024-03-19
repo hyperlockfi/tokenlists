@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-18T15:53:19.719Z",
+    "timestamp": "2024-03-19T14:36:20.769Z",
     "tokens": [
         {
             "chainId": 1,
@@ -152,6 +152,13 @@
             "name": "Yield Token",
             "symbol": "YIELD",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x67fa2887914fa3729e9eed7630294fe124f417a0.svg"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06",
+            "name": "PacMoon",
+            "symbol": "PAC",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06.jpg"
         },
         {
             "chainId": 81457,
