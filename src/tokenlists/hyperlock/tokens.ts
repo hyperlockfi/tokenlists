@@ -1,8 +1,8 @@
 import { Network, TokensForList } from '../../types'
-import ethereum from './tokens/ethereum'
 import blast from './tokens/blast'
+import sepolia from './tokens/sepolia'
 
 export const tokens: TokensForList = {
-  [Network.Ethereum]: ethereum,
   [Network.Blast]: blast,
+  [Network.Sepolia]: sepolia,
 }

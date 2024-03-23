@@ -1,10 +1,10 @@
 import { Network, Configs } from '../types'
-import ethereum from './ethereum'
 import blast from './blast'
+import sepolia from './sepolia'
 
 const config: Configs = {
-  [Network.Ethereum]: ethereum,
   [Network.Blast]: blast,
+  [Network.Sepolia]: sepolia,
 }
 
 export default config

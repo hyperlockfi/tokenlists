@@ -1,8 +1,8 @@
 import { TokenInfo, TokenList } from '@uniswap/token-lists'
 
 export enum Network {
-  Ethereum = '1',
   Blast = '81457',
+  Sepolia = '1168587773',
 }
 
 export interface Config {
