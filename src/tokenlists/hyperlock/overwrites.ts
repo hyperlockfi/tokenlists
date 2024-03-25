@@ -4,6 +4,12 @@ import { Network, OverwritesForList } from '../../types'
 export const overwrites: OverwritesForList = {
   [Network.Blast]: {
     // tokens
+    '0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd': {
+      address: '0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd',
+      name: 'rsETHWrapped',
+      symbol: 'wrsETH',
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd'}.svg`
+    },
     '0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06': {
       address: '0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06',
       name: 'PacMoon',
