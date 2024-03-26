@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-25T21:52:35.280Z",
+    "timestamp": "2024-03-26T14:46:21.210Z",
     "tokens": [
         {
             "chainId": 1,
@@ -180,6 +180,13 @@
             "name": "MetaStreet V2 Deposit: WPUNKS-wstETH:20",
             "symbol": "mwstETH-WPUNKS:20",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x9a50953716ba58e3d6719ea5c437452ac578705f.svg"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923",
+            "name": "Juice",
+            "symbol": "JUICE",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923.jpg"
         },
         {
             "chainId": 81457,
