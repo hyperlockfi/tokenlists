@@ -18,21 +18,21 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-23T21:47:56.288Z",
+    "timestamp": "2024-03-27T18:22:52.439Z",
     "tokens": [
         {
             "chainId": 81457,
             "address": "0x4300000000000000000000000000000000000003",
             "name": "USDB",
-            "symbol": "usdb",
-            "logoURI": "https://assets.coingecko.com/coins/images/35595/large/65c67f0ebf2f6a1bd0feb13c_usdb-icon-yellow.png?1709255427"
+            "symbol": "USDB",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb.png"
         },
         {
             "chainId": 81457,
             "address": "0x4300000000000000000000000000000000000004",
             "name": "WETH",
-            "symbol": "weth",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x4300000000000000000000000000000000000004.png"
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth.png"
         },
         {
             "chainId": 81457,
@@ -151,105 +151,105 @@
             "address": "0x0000000000000000000000000000000000000001",
             "name": "JUICE",
             "symbol": "JUICE",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/points/juice.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/juice.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x0000000000000000000000000000000000000002",
             "name": "METASTREET",
             "symbol": "METASTREET",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/points/metastreet.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/metastreet.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x0000000000000000000000000000000000000003",
             "name": "THRUST",
             "symbol": "THRUST",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/points/thruster.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/thruster.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x0000000000000000000000000000000000000004",
             "name": "BLAST",
             "symbol": "BLAST",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/points/blast.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/blast.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x0000000000000000000000000000000000000005",
             "name": "HYPER",
             "symbol": "HYPER",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/points/hyper.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/hyper.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x0000000000000000000000000000000000000006",
             "name": "RENZO",
             "symbol": "RENZO",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/points/renzo.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/renzo.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x0000000000000000000000000000000000000007",
             "name": "EIGEN",
             "symbol": "EIGEN",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/points/eigen.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/eigen.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x4200000000000000000000000000000000000022",
-            "name": "USDB-B",
-            "symbol": "USDB-B",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/yield/0x4200000000000000000000000000000000000022.png"
+            "name": "USDB",
+            "symbol": "USDB",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x2100d2da8d51269607cdc503e58242471c5d54e7",
-            "name": "USDB-PART",
-            "symbol": "USDB-PART",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/yield/0x2100d2da8d51269607cdc503e58242471c5d54e7.png"
+            "name": "USDB-PT",
+            "symbol": "USDB-PT",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-pt.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x0af63da91f2a50823863ab232253781cfd2b4695",
-            "name": "USDB-YOOT",
-            "symbol": "USDB-YOOT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/yield/0x0af63da91f2a50823863ab232253781cfd2b4695.png"
+            "name": "USDB-YT",
+            "symbol": "USDB-YT",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-yt.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x52a53f25b2b717a02613a9259d3ed6a189b9d22a",
-            "name": "USDB-SWAY",
-            "symbol": "USDB-SWAY",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/yield/0x52a53f25b2b717a02613a9259d3ed6a189b9d22a.png"
+            "name": "USDB-SY",
+            "symbol": "USDB-SY",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-sy.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x4200000000000000000000000000000000000023",
-            "name": "WETH-B",
-            "symbol": "WETH-B",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/yield/0x4200000000000000000000000000000000000023.png"
+            "name": "WETH",
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x0e402b19f5bb665e558f197db3ed1ffbb6369876",
-            "name": "WETH-PART",
-            "symbol": "WETH-PART",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/yield/0x0e402b19f5bb665e558f197db3ed1ffbb6369876.png"
+            "name": "WETH-PT",
+            "symbol": "WETH-PT",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-pt.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x6c07e20e618ac8b3f5f25b30d358ba62a458fd4d",
-            "name": "WETH-YOOT",
-            "symbol": "WETH-YOOT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/yield/0x6c07e20e618ac8b3f5f25b30d358ba62a458fd4d.png"
+            "name": "WETH-YT",
+            "symbol": "WETH-YT",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-yt.png"
         },
         {
             "chainId": 1168587773,
             "address": "0xa1dd7ee93b5990851fca04257232d7062fe9c315",
-            "name": "WETH-SWAY",
-            "symbol": "WETH-SWAY",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/feat/testnet/src/assets/images/yield/0xa1dd7ee93b5990851fca04257232d7062fe9c315.png"
+            "name": "WETH-SY",
+            "symbol": "WETH-SY",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-sy.png"
         }
     ]
 }
