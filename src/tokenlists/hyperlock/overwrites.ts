@@ -161,15 +161,6 @@ export const overwrites: OverwritesForList = {
       symbol: "EIGEN",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'eigen'}.png`
     },
-    // yield
-    // weth: {
-    //   address: '0xecc3b335c95b28a9477c42c847be6d8cac80cf25', // Market
-    //   token: '0x4300000000000000000000000000000000000004', // WETH
-    //   pt: '0xd4154f0175f5423de93dd1e1499f3a6801465375', // PT
-    //   yt: '0x22c1c2f9695d0cf8054472ef70510ec7c9640d04', // YT
-    //   sy: '0xb80ad10dffdd415c2159962c1b35ef6edcf1b505', // SY
-    //   erc4626: '0x1856c7e0b559e9d7287473cb4b4786398db4032a', // HyperWETH
-    // },
     '0x4300000000000000000000000000000000000003': {
       address: "0x4300000000000000000000000000000000000003",
       name: "USDB",
