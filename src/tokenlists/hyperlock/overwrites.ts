@@ -4,6 +4,24 @@ import { Network, OverwritesForList } from '../../types'
 export const overwrites: OverwritesForList = {
   [Network.Blast]: {
     // tokens
+    '0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E': {
+      address:'0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E',
+      name: 'sFrax',
+      symbol: 'sFRAX',
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'sfrax'}.svg`
+    },
+    '0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A': {
+      address:'0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A',
+      name: 'sfrxETH',
+      symbol: 'sfrxETH',
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'sfrxeth'}.svg`
+    },
+    '0x23432452B720C80553458496D4D9d7C5003280d0': {
+      address:'0x23432452B720C80553458496D4D9d7C5003280d0',
+      name: 'FXS',
+      symbol: 'FXS',
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${'fxs'}.svg`
+    },
     '0xF7bc58b8D8f97ADC129cfC4c9f45Ce3C0E1D2692': {
      address:'0xF7bc58b8D8f97ADC129cfC4c9f45Ce3C0E1D2692',
       name: 'Wrapped BTC',

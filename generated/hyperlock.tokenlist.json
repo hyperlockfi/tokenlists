@@ -18,8 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-28T14:13:22.429Z",
-    "timestamp": "2024-03-28T18:06:36.785Z",
+    "timestamp": "2024-03-28T22:46:46.292Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -174,6 +173,27 @@
             "name": "Wrapped BTC",
             "symbol": "wBTC",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E",
+            "name": "sFrax",
+            "symbol": "sFRAX",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/sfrax.svg"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
+            "name": "sfrxETH",
+            "symbol": "sfrxETH",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/sfrxeth.svg"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x23432452B720C80553458496D4D9d7C5003280d0",
+            "name": "FXS",
+            "symbol": "FXS",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/fxs.svg"
         },
         {
             "chainId": 81457,
