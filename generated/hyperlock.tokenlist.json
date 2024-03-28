@@ -19,6 +19,7 @@
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
     "timestamp": "2024-03-28T14:13:22.429Z",
+    "timestamp": "2024-03-28T18:06:36.785Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -166,6 +167,13 @@
             "name": "Juice",
             "symbol": "JUICE",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923.jpg"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xF7bc58b8D8f97ADC129cfC4c9f45Ce3C0E1D2692",
+            "name": "Wrapped BTC",
+            "symbol": "wBTC",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692.png"
         },
         {
             "chainId": 81457,
