@@ -18,22 +18,8 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-27T18:27:59.231Z",
+    "timestamp": "2024-03-28T14:13:22.429Z",
     "tokens": [
-        {
-            "chainId": 81457,
-            "address": "0x4300000000000000000000000000000000000003",
-            "name": "USDB",
-            "symbol": "USDB",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb.png"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x4300000000000000000000000000000000000004",
-            "name": "WETH",
-            "symbol": "WETH",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth.png"
-        },
         {
             "chainId": 81457,
             "address": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
@@ -274,7 +260,7 @@
         },
         {
             "chainId": 81457,
-            "address": "0x0e402b19f5bb665e558f197db3ed1ffbb6369876",
+            "address": "0xd4154f0175f5423de93dd1e1499f3a6801465375",
             "name": "WETH-PT",
             "symbol": "WETH-PT",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-pt.png"
