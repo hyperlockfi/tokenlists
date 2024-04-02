@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-03-28T22:46:46.292Z",
+    "timestamp": "2024-04-02T16:08:37.309Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -243,6 +243,13 @@
             "name": "EIGEN",
             "symbol": "EIGEN",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/eigen.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x0000000000000000000000000000000000000008",
+            "name": "GOLD",
+            "symbol": "GOLD",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/gold.png"
         },
         {
             "chainId": 81457,

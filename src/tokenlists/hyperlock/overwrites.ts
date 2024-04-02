@@ -185,6 +185,13 @@ export const overwrites: OverwritesForList = {
       symbol: "EIGEN",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'eigen'}.png`
     },
+    '0x0000000000000000000000000000000000000008': {
+      address: "0x0000000000000000000000000000000000000008",
+      name: "GOLD",
+      symbol: "GOLD",
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'gold'}.png`
+    },
+    // Yield
     '0x4300000000000000000000000000000000000003': {
       address: "0x4300000000000000000000000000000000000003",
       name: "USDB",
