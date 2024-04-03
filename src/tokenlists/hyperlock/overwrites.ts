@@ -216,6 +216,12 @@ export const overwrites: OverwritesForList = {
       symbol: "USDB-SY",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb-sy'}.png`
     },
+    '0xfa21affa1c65d91aa369628af3a88794485a1450': {
+      address: "0xfa21affa1c65d91aa369628af3a88794485a1450",
+      name: "USDB-LPT",
+      symbol: "USDB-LPT",
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb-lp'}.png`
+    },
     '0x390b781baf1e6db546cf4e3354b81446947838d2': {
       address: "0x390b781baf1e6db546cf4e3354b81446947838d2",
       name: "HyperUSDB",
@@ -245,6 +251,12 @@ export const overwrites: OverwritesForList = {
       name: "WETH-SY",
       symbol: "WETH-SY",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth-sy'}.png`
+    },
+    '0xcf34556c495cf5637a3131526cef98d8a7d99888': {
+      address: "0xcf34556c495cf5637a3131526cef98d8a7d99888",
+      name: "WETH-LPT",
+      symbol: "WETH-LPT",
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth-lp'}.png`
     },
     '0x1856c7e0b559e9d7287473cb4b4786398db4032a': {
       address: "0x1856c7e0b559e9d7287473cb4b4786398db4032a",
