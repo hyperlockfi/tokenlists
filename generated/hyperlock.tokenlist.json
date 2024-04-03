@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-04-03T06:43:19.137Z",
+    "timestamp": "2024-04-03T06:59:47.408Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -281,16 +281,16 @@
         },
         {
             "chainId": 81457,
-            "address": "0x390b781baf1e6db546cf4e3354b81446947838d2",
-            "name": "HyperUSDB",
-            "symbol": "HyperUSDB",
+            "address": "0xfa21affa1c65d91aa369628af3a88794485a1450",
+            "name": "USDB-LPT",
+            "symbol": "USDB-LPT",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-lp.png"
         },
         {
             "chainId": 81457,
-            "address": "0xfa21affa1c65d91aa369628af3a88794485a1450",
-            "name": "USDB-LPT",
-            "symbol": "USDB-LPT",
+            "address": "0x390b781baf1e6db546cf4e3354b81446947838d2",
+            "name": "HyperUSDB",
+            "symbol": "HyperUSDB",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-lp.png"
         },
         {
@@ -323,16 +323,16 @@
         },
         {
             "chainId": 81457,
-            "address": "0x1856c7e0b559e9d7287473cb4b4786398db4032a",
-            "name": "HyperWETH",
-            "symbol": "HyperWETH",
+            "address": "0xEcc3B335c95B28a9477c42C847be6D8caC80cf25",
+            "name": "WETH-LPT",
+            "symbol": "WETH-LPT",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-lp.png"
         },
         {
             "chainId": 81457,
-            "address": "0xcf34556c495cf5637a3131526cef98d8a7d99888",
-            "name": "WETH-LPT",
-            "symbol": "WETH-LPT",
+            "address": "0x1856c7e0b559e9d7287473cb4b4786398db4032a",
+            "name": "HyperWETH",
+            "symbol": "HyperWETH",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-lp.png"
         },
         {

@@ -39,12 +39,12 @@ export default [
   '0x1cde6a099a1cb14f3093d2b7cb5b7cbb2145cb64', // yield - usdb-pt
   '0xc878aeb90e6c35d81a8ceaa8dbb89b35aee81c87', // yield - usdb-yt
   '0x13293dacab830d8fa2e0e961fb997b3f37186f46', // yield - usdb-sy
-  '0x390b781baf1e6db546cf4e3354b81446947838d2', // yield - hyper-usdc
   '0xfa21affa1c65d91aa369628af3a88794485a1450', // yield - usdb-lp
+  '0x390b781baf1e6db546cf4e3354b81446947838d2', // yield - hyper-usdc
   '0x4300000000000000000000000000000000000004', // yield - weth
   '0xd4154f0175f5423de93dd1e1499f3a6801465375', // yield - weth-pt
   '0x22c1c2f9695d0cf8054472ef70510ec7c9640d04', // yield - weth-yt
   '0xb80ad10dffdd415c2159962c1b35ef6edcf1b505', // yield - weth-sy
+  '0xEcc3B335c95B28a9477c42C847be6D8caC80cf25', // yield - weth-lp
   '0x1856c7e0b559e9d7287473cb4b4786398db4032a', // yield - hyper-weth
-  '0xcf34556c495cf5637a3131526cef98d8a7d99888', // yield - weth-lp
 ]

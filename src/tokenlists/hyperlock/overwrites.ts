@@ -252,8 +252,8 @@ export const overwrites: OverwritesForList = {
       symbol: "WETH-SY",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth-sy'}.png`
     },
-    '0xcf34556c495cf5637a3131526cef98d8a7d99888': {
-      address: "0xcf34556c495cf5637a3131526cef98d8a7d99888",
+    '0xEcc3B335c95B28a9477c42C847be6D8caC80cf25': {
+      address: "0xEcc3B335c95B28a9477c42C847be6D8caC80cf25",
       name: "WETH-LPT",
       symbol: "WETH-LPT",
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth-lp'}.png`
