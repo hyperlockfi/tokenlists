@@ -40,3 +40,9 @@ sure the token name for WETH was 'Wrapped Ether' then you would add:
 
 within the `overwrites.ts` file under the relevant network key, in this case
 `[Network.Ethereum]`
+
+## Helpers
+- Resize images `sips -Z 128 *.png`
+- Convert svgs to png `find . -type f -name "*.svg" -exec bash -c 'rsvg-convert -h 128 "$0" > "$0".png' {} \;`
+- To lowercase files `for f in *; do mv "$f" "$f.tmp"; mv "$f.tmp" "`echo $f | tr "[:upper:]" "[:lower:]"`"; done`
+- Convert jpg -> png `for i in *.jpg; do sips -s format png $i --out $i.png;done`
