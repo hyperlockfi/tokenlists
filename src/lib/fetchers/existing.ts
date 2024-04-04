@@ -2,11 +2,12 @@ import { TokenInfo, TokenList } from '@uniswap/token-lists'
 import { Network, OverwritesForList, PartialTokenInfoMap } from '../../types'
 import fs from 'fs'
 import { getAddress, isAddress } from 'ethers'
-import { merge, pick } from 'lodash'
+import { merge, mergeWith, pick } from 'lodash'
+import _ from 'lodash'
 
 function convertTokenInfoToMap(tokenInfo: TokenInfo[]): PartialTokenInfoMap {
   return tokenInfo.reduce((map: PartialTokenInfoMap, obj) => {
-    map[getAddress(obj.address)] = pick(
+    map[getAddress(obj.address)?.toLowerCase()] = pick(
       obj,
       'address',
       'symbol',
@@ -19,6 +20,7 @@ function convertTokenInfoToMap(tokenInfo: TokenInfo[]): PartialTokenInfoMap {
 }
 
 type TokenIconInfo = Pick<TokenInfo, 'address' | 'logoURI'>
+
 function fetchLocalTokenIcons(network: Network): PartialTokenInfoMap {
   const tokenIcons: TokenIconInfo[] = []
 
@@ -37,7 +39,6 @@ function fetchLocalTokenIcons(network: Network): PartialTokenInfoMap {
     } else {
       address = fileName
     }
-
     tokenIcons.push({
       address: getAddress(address),
       // eslint-disable-next-line max-len
@@ -78,6 +79,5 @@ export async function fetchExistingMetadata(
     network,
     existingTokenList
   )
-  // With merge, the last argument takes precedence
   return merge(existingListMetadata, localTokenIcons, overwritesMetadata)
 }
