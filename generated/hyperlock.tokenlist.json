@@ -18,183 +18,8 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-04-03T06:59:47.408Z",
+    "timestamp": "2024-04-04T12:17:09.395Z",
     "tokens": [
-        {
-            "chainId": 81457,
-            "address": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
-            "name": "Orbit Protocol",
-            "symbol": "orbit",
-            "logoURI": "https://assets.coingecko.com/coins/images/35675/large/orbit.png?1709520496"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A",
-            "name": "Pump",
-            "symbol": "pump",
-            "logoURI": "https://assets.coingecko.com/coins/images/35676/large/pump_%281%29.jpg?1709520871"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
-            "name": "Aura Finance",
-            "symbol": "AURA",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x999f220296b5843b2909cc5f8b4204aaca5341d8",
-            "name": "Metastreet Punks",
-            "symbol": "mwsteth:WPUNKS:40",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x999f220296b5843b2909cc5f8b4204aaca5341d8.png"
-        },
-        {
-            "chainId": 81457,
-            "address": "0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f",
-            "name": "BAG",
-            "symbol": "BAG",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f.png"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
-            "name": "Renzo Restaked ETH",
-            "symbol": "ezETH",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x2416092f143378750bb29b79ed961ab195cceea5.png"
-        },
-        {
-            "chainId": 81457,
-            "address": "0xca84812e477ee5a96a92328689d8ce2589ab6ffd",
-            "name": "ALIEN",
-            "symbol": "ALIEN",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xca84812e477ee5a96a92328689d8ce2589ab6ffd.png"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x5fe8534a6f96cb01261bd96e98c17c2c1cab3204",
-            "name": "Baja",
-            "symbol": "BAJA",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x5fe8534a6f96cb01261bd96e98c17c2c1cab3204.png"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c",
-            "name": "YES",
-            "symbol": "YES",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c.png"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x9E0d7D79735e1c63333128149c7b616a0dC0bBDb",
-            "name": "Pirex Ether OFT",
-            "symbol": "pxETH",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x9e0d7d79735e1c63333128149c7b616a0dc0bbdb.svg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-            "name": "Axelar Wrapped USDC",
-            "symbol": "axlUSDC",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xeb466342c4d449bc9f53a865d5cb90586f405215.svg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x38CDfC4111B49F24784670D35C5b4D2d38ECb33B",
-            "name": "Drip Token",
-            "symbol": "DRIP",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x38cdfc4111b49f24784670d35c5b4d2d38ecb33b.jpg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
-            "name": "SwapBlast Finance Token",
-            "symbol": "SBF",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd07379a755a8f11b57610154861d694b2a0f615a.jpg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
-            "name": "Andy",
-            "symbol": "ANDY",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8.svg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x233b23DE890A8c21F6198D03425a2b986AE05536",
-            "name": "Core Markets",
-            "symbol": "CORE",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x233b23de890a8c21f6198d03425a2b986ae05536.jpg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x67fa2887914fA3729e9EED7630294Fe124f417A0",
-            "name": "Yield Token",
-            "symbol": "YIELD",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x67fa2887914fa3729e9eed7630294fe124f417a0.svg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06",
-            "name": "PacMoon",
-            "symbol": "PAC",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06.jpg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd",
-            "name": "rsETHWrapped",
-            "symbol": "wrsETH",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd.svg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x41cF7ea4Ba650191e829A6bD31B9e2049C78D858",
-            "name": "MetaStreet V2 Deposit: PPG-WETH:5",
-            "symbol": "mWETH-PPG:5",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x41cf7ea4ba650191e829a6bd31b9e2049c78d858.svg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x9a50953716bA58e3d6719Ea5c437452ac578705F",
-            "name": "MetaStreet V2 Deposit: WPUNKS-wstETH:20",
-            "symbol": "mwstETH-WPUNKS:20",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x9a50953716ba58e3d6719ea5c437452ac578705f.svg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923",
-            "name": "Juice",
-            "symbol": "JUICE",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923.jpg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0xF7bc58b8D8f97ADC129cfC4c9f45Ce3C0E1D2692",
-            "name": "Wrapped BTC",
-            "symbol": "wBTC",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692.png"
-        },
-        {
-            "chainId": 81457,
-            "address": "0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E",
-            "name": "sFrax",
-            "symbol": "sFRAX",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/sfrax.svg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
-            "name": "sfrxETH",
-            "symbol": "sfrxETH",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/sfrxeth.svg"
-        },
-        {
-            "chainId": 81457,
-            "address": "0x23432452B720C80553458496D4D9d7C5003280d0",
-            "name": "FXS",
-            "symbol": "FXS",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/fxs.svg"
-        },
         {
             "chainId": 81457,
             "address": "0x0000000000000000000000000000000000000001",
@@ -270,7 +95,7 @@
             "address": "0xc878aeb90e6c35d81a8ceaa8dbb89b35aee81c87",
             "name": "USDB-YT",
             "symbol": "USDB-YT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-pt.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-yt.png"
         },
         {
             "chainId": 81457,
@@ -323,7 +148,7 @@
         },
         {
             "chainId": 81457,
-            "address": "0xEcc3B335c95B28a9477c42C847be6D8caC80cf25",
+            "address": "0xecc3b335c95b28a9477c42c847be6d8cac80cf25",
             "name": "WETH-LPT",
             "symbol": "WETH-LPT",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-lp.png"
@@ -334,6 +159,174 @@
             "name": "HyperWETH",
             "symbol": "HyperWETH",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-lp.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x42e12d42b3d6c4a74a88a61063856756ea2db357",
+            "name": "Orbit Protocol",
+            "symbol": "ORBIT"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x216a5a1135a9dab49fa9ad865e0f22fe22b5630a",
+            "name": "Pump",
+            "symbol": "PUMP"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+            "name": "Aura Finance",
+            "symbol": "AURA"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x999f220296b5843b2909cc5f8b4204aaca5341d8",
+            "name": "Metastreet Punks",
+            "symbol": "mwsteth:WPUNKS:40"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f",
+            "name": "BAG",
+            "symbol": "BAG"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+            "name": "Renzo Restaked ETH",
+            "symbol": "ezETH"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xca84812e477ee5a96a92328689d8ce2589ab6ffd",
+            "name": "ALIEN",
+            "symbol": "ALIEN"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x5fe8534a6f96cb01261bd96e98c17c2c1cab3204",
+            "name": "Baja",
+            "symbol": "BAJA"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c",
+            "name": "YES",
+            "symbol": "YES"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x9e0d7d79735e1c63333128149c7b616a0dc0bbdb",
+            "name": "Pirex Ether OFT",
+            "symbol": "pxETH"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+            "name": "Axelar Wrapped USDC",
+            "symbol": "axlUSDC"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x38cdfc4111b49f24784670d35c5b4d2d38ecb33b",
+            "name": "Drip Token",
+            "symbol": "DRIP"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xd07379a755a8f11b57610154861d694b2a0f615a",
+            "name": "SwapBlast Finance Token",
+            "symbol": "SBF"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8",
+            "name": "Andy",
+            "symbol": "ANDY"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x233b23de890a8c21f6198d03425a2b986ae05536",
+            "name": "Core Markets",
+            "symbol": "CORE"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x67fa2887914fa3729e9eed7630294fe124f417a0",
+            "name": "Yield Token",
+            "symbol": "YIELD"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
+            "name": "PacMoon",
+            "symbol": "PAC"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd",
+            "name": "rsETHWrapped",
+            "symbol": "wrsETH"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x41cf7ea4ba650191e829a6bd31b9e2049c78d858",
+            "name": "MetaStreet V2 Deposit: PPG-WETH:5",
+            "symbol": "mWETH-PPG:5"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x9a50953716ba58e3d6719ea5c437452ac578705f",
+            "name": "MetaStreet V2 Deposit: WPUNKS-wstETH:20",
+            "symbol": "mwstETH-WPUNKS:20"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923",
+            "name": "Juice",
+            "symbol": "JUICE"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692",
+            "name": "Wrapped BTC",
+            "symbol": "wBTC"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xe4796ccb6bb5de2290c417ac337f2b66ca2e770e",
+            "name": "sFrax",
+            "symbol": "sFRAX"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x1f55a02a049033e3419a8e2975cf3f572f4e6e9a",
+            "name": "sfrxETH",
+            "symbol": "sfrxETH"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x23432452b720c80553458496d4d9d7c5003280d0",
+            "name": "FXS",
+            "symbol": "FXS"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x4fee793d435c6d2c10c135983bb9d6d4fc7b9bbd",
+            "name": "USD+",
+            "symbol": "USD+"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x15d24de366f69b835be19f7cf9447e770315dd80",
+            "name": "KAP",
+            "symbol": "KAP"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xd582879453337bd149ae53ec2092b0af5281d1d7",
+            "name": "GLORY",
+            "symbol": "GLORY"
         },
         {
             "chainId": 1168587773,

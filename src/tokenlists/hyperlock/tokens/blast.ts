@@ -1,30 +1,4 @@
 export default [
-  // tokens
-  '0x42e12d42b3d6c4a74a88a61063856756ea2db357', // orbit
-  '0x216a5a1135a9dab49fa9ad865e0f22fe22b5630a', // pump
-  '0x1509706a6c66ca549ff0cb464de88231ddbe213b', // aura
-  '0x999f220296b5843b2909cc5f8b4204aaca5341d8', // mwsteth:WPUNKS:40
-  '0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f', // bag
-  '0x2416092f143378750bb29b79ed961ab195cceea5', // renzo
-  '0xca84812e477ee5a96a92328689d8ce2589ab6ffd', // alien
-  '0x5fe8534a6f96cb01261bd96e98c17c2c1cab3204', // baja
-  '0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c', // yes
-  '0x9E0d7D79735e1c63333128149c7b616a0dC0bBDb', // pxETH
-  '0xEB466342C4d449BC9f53A865D5Cb90586f405215', // axlETH
-  '0x38CDfC4111B49F24784670D35C5b4D2d38ECb33B', // drip
-  '0xd07379a755A8f11B57610154861D694b2A0f615a', // sbf
-  '0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8', // Andy
-  '0x233b23DE890A8c21F6198D03425a2b986AE05536', // Core
-  '0x67fa2887914fA3729e9EED7630294Fe124f417A0', // Yield
-  '0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06', // PacMoon
-  '0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd', // rsETH
-  '0x41cF7ea4Ba650191e829A6bD31B9e2049C78D858', // mWETH-PPG:5
-  '0x9a50953716bA58e3d6719Ea5c437452ac578705F', // mwstETH-WPUNKS:20
-  '0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923', // Juice
-  '0xF7bc58b8D8f97ADC129cfC4c9f45Ce3C0E1D2692', // wBTC
-  '0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E', // sFRAX
-  '0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A', // sfrxETH
-  '0x23432452B720C80553458496D4D9d7C5003280d0', // FXS
   // points
   '0x0000000000000000000000000000000000000001', // points - juice
   '0x0000000000000000000000000000000000000002', // points - metastreet
@@ -45,6 +19,35 @@ export default [
   '0xd4154f0175f5423de93dd1e1499f3a6801465375', // yield - weth-pt
   '0x22c1c2f9695d0cf8054472ef70510ec7c9640d04', // yield - weth-yt
   '0xb80ad10dffdd415c2159962c1b35ef6edcf1b505', // yield - weth-sy
-  '0xEcc3B335c95B28a9477c42C847be6D8caC80cf25', // yield - weth-lp
+  '0xecc3b335c95b28a9477c42c847be6d8cac80cf25', // yield - weth-lp
   '0x1856c7e0b559e9d7287473cb4b4786398db4032a', // yield - hyper-weth
+  // tokens
+  '0x42e12d42b3d6c4a74a88a61063856756ea2db357', // orbit
+  '0x216a5a1135a9dab49fa9ad865e0f22fe22b5630a', // pump
+  '0x1509706a6c66ca549ff0cb464de88231ddbe213b', // aura
+  '0x999f220296b5843b2909cc5f8b4204aaca5341d8', // mwsteth:wpunks:40
+  '0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f', // bag
+  '0x2416092f143378750bb29b79ed961ab195cceea5', // renzo
+  '0xca84812e477ee5a96a92328689d8ce2589ab6ffd', // alien
+  '0x5fe8534a6f96cb01261bd96e98c17c2c1cab3204', // baja
+  '0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c', // yes
+  '0x9e0d7d79735e1c63333128149c7b616a0dc0bbdb', // pxeth
+  '0xeb466342c4d449bc9f53a865d5cb90586f405215', // axleth
+  '0x38cdfc4111b49f24784670d35c5b4d2d38ecb33b', // drip
+  '0xd07379a755a8f11b57610154861d694b2a0f615a', // sbf
+  '0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8', // andy
+  '0x233b23de890a8c21f6198d03425a2b986ae05536', // core
+  '0x67fa2887914fa3729e9eed7630294fe124f417a0', // yield
+  '0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06', // pacmoon
+  '0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd', // rseth
+  '0x41cf7ea4ba650191e829a6bd31b9e2049c78d858', // mweth-ppg:5
+  '0x9a50953716ba58e3d6719ea5c437452ac578705f', // mwsteth-wpunks:20
+  '0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923', // juice
+  '0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692', // wbtc
+  '0xe4796ccb6bb5de2290c417ac337f2b66ca2e770e', // sfrax
+  '0x1f55a02a049033e3419a8e2975cf3f572f4e6e9a', // sfrxeth
+  '0x23432452b720c80553458496d4d9d7c5003280d0', // fxs
+  '0x4fee793d435c6d2c10c135983bb9d6d4fc7b9bbd', // usd+
+  '0x15d24de366f69b835be19f7cf9447e770315dd80', // kap
+  '0xd582879453337bd149ae53ec2092b0af5281d1d7', // glory
 ]

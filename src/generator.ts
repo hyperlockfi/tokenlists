@@ -162,7 +162,7 @@ async function setTokenInfo(
   // combine existingMetadata and overwriteMetadata (precedence last to first)
   // We want the onchain data to be used only if it's missing from existing data.
   let metadata = merge(
-    { chainId: Number(network), address: getAddress(address) },
+    { chainId: Number(network), address: getAddress(address)?.toLowerCase() },
     onchainMetadata,
     existingMetadata
   )
@@ -175,9 +175,9 @@ async function setTokenInfo(
     return formatMetadata(metadata)
   }
 
-  const coingeckoMetadata = await fetchCoingeckoMetadata(network, address)
+  // const coingeckoMetadata = await fetchCoingeckoMetadata(network, address)
   // Again, we want the coingecko data to be used only if it's missing from existing data.
-  metadata = merge(coingeckoMetadata, metadata)
+  // metadata = merge(coingeckoMetadata, metadata)
 
   if (satisfiesTokenInfoSchema({ token: metadata, includeOptionals: false })) {
     return formatMetadata(metadata)

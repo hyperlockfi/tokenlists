@@ -3,7 +3,6 @@ import { Network, OverwritesForList, PartialTokenInfoMap } from '../../types'
 import fs from 'fs'
 import { getAddress, isAddress } from 'ethers'
 import { merge, pick } from 'lodash'
-import config from '../../config'
 
 function convertTokenInfoToMap(tokenInfo: TokenInfo[]): PartialTokenInfoMap {
   return tokenInfo.reduce((map: PartialTokenInfoMap, obj) => {
@@ -17,31 +16,6 @@ function convertTokenInfoToMap(tokenInfo: TokenInfo[]): PartialTokenInfoMap {
     )
     return map
   }, {})
-}
-
-async function fetchTrustWalletMetadata(
-  network: Network
-): Promise<PartialTokenInfoMap> {
-  try {
-    // eslint-disable-next-line max-len
-    const url = `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/${config[network].trustWalletNetwork}/tokenlist.json`
-    const response = await fetch(url)
-    const { tokens } = await response.json()
-    for (const token of tokens) {
-      // A couple of logo links in the trustwallet list are missing the token
-      // address, this hack fixes them.
-      if (token.logoURI.includes('//logo.png')) {
-        token.logoURI = token.logoURI.replace(
-          '//logo.png',
-          `/${token.address}/logo.png`
-        )
-      }
-    }
-    return convertTokenInfoToMap(tokens)
-  } catch (error) {
-    console.warn('Failed to fetch TrustWallet tokenlist', error)
-    return {}
-  }
 }
 
 type TokenIconInfo = Pick<TokenInfo, 'address' | 'logoURI'>
@@ -92,7 +66,6 @@ function fetchExistingTokensListMap(
  * 1. Overwrites
  * 2. Local asset images
  * 3. Existing tokenlist
- * 4. TrustWallet data
  */
 export async function fetchExistingMetadata(
   network: Network,
@@ -106,9 +79,5 @@ export async function fetchExistingMetadata(
     existingTokenList
   )
   // With merge, the last argument takes precedence
-  return merge(
-    existingListMetadata,
-    localTokenIcons,
-    overwritesMetadata
-  )
+  return merge(existingListMetadata, localTokenIcons, overwritesMetadata)
 }
