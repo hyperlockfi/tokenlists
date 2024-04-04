@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-04-04T13:08:52.356Z",
+    "timestamp": "2024-04-04T13:18:54.739Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -239,27 +239,31 @@
         },
         {
             "chainId": 81457,
-            "address": "0x38cdfc4111b49f24784670d35c5b4d2d38ecb33b",
+            "address": "0x38CDfC4111B49F24784670D35C5b4D2d38ECb33B",
             "name": "Drip Token",
-            "symbol": "DRIP"
+            "symbol": "DRIP",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x38cdfc4111b49f24784670d35c5b4d2d38ecb33b.png"
         },
         {
             "chainId": 81457,
-            "address": "0xd07379a755a8f11b57610154861d694b2a0f615a",
+            "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
             "name": "SwapBlast Finance Token",
-            "symbol": "SBF"
+            "symbol": "SBF",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd07379a755a8f11b57610154861d694b2a0f615a.png"
         },
         {
             "chainId": 81457,
-            "address": "0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8",
+            "address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
             "name": "Andy",
-            "symbol": "ANDY"
+            "symbol": "ANDY",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8.png"
         },
         {
             "chainId": 81457,
-            "address": "0x233b23de890a8c21f6198d03425a2b986ae05536",
+            "address": "0x233b23DE890A8c21F6198D03425a2b986AE05536",
             "name": "Core Markets",
-            "symbol": "CORE"
+            "symbol": "CORE",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x233b23de890a8c21f6198d03425a2b986ae05536.png"
         },
         {
             "chainId": 81457,
@@ -270,9 +274,10 @@
         },
         {
             "chainId": 81457,
-            "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
+            "address": "0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06",
             "name": "PacMoon",
-            "symbol": "PAC"
+            "symbol": "PAC",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06.png"
         },
         {
             "chainId": 81457,
@@ -297,9 +302,10 @@
         },
         {
             "chainId": 81457,
-            "address": "0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923",
+            "address": "0x818a92bc81Aad0053d72ba753fb5Bc3d0C5C0923",
             "name": "Juice",
-            "symbol": "JUICE"
+            "symbol": "JUICE",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923.png"
         },
         {
             "chainId": 81457,
@@ -338,9 +344,10 @@
         },
         {
             "chainId": 81457,
-            "address": "0x15d24de366f69b835be19f7cf9447e770315dd80",
+            "address": "0x15d24de366F69b835Be19f7Cf9447e770315DD80",
             "name": "KAP",
-            "symbol": "KAP"
+            "symbol": "KAP",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x15d24de366f69b835be19f7cf9447e770315dd80.png"
         },
         {
             "chainId": 81457,
