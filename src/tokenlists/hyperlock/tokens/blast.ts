@@ -13,13 +13,15 @@ export default [
   '0x1cde6a099a1cb14f3093d2b7cb5b7cbb2145cb64', // yield - usdb-pt
   '0xc878aeb90e6c35d81a8ceaa8dbb89b35aee81c87', // yield - usdb-yt
   '0x13293dacab830d8fa2e0e961fb997b3f37186f46', // yield - usdb-sy
-  '0xfa21affa1c65d91aa369628af3a88794485a1450', // yield - usdb-lp
+  '0x258133c3ecd19591544c01884227e4ae03f0dbd0', // yield - usdb-lp
+  '0x6b61cfce05aaf44eba5da45def48c0fbd26390a1', // yield - usdb-lp
   '0x390b781baf1e6db546cf4e3354b81446947838d2', // yield - hyper-usdc
   '0x4300000000000000000000000000000000000004', // yield - weth
   '0xd4154f0175f5423de93dd1e1499f3a6801465375', // yield - weth-pt
   '0x22c1c2f9695d0cf8054472ef70510ec7c9640d04', // yield - weth-yt
   '0xb80ad10dffdd415c2159962c1b35ef6edcf1b505', // yield - weth-sy
-  '0xecc3b335c95b28a9477c42c847be6d8cac80cf25', // yield - weth-lp
+  '0xaa09cff22452a6d59836b1e2b3820815f52498b8', // yield - weth-lp
+  '0xb9612af20a0143661a695fcb0d176aa2bda2a332', // yield - weth-lp
   '0x1856c7e0b559e9d7287473cb4b4786398db4032a', // yield - hyper-weth
   // tokens
   '0x42e12d42b3d6c4a74a88a61063856756ea2db357', // orbit

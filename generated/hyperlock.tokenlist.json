@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-04-04T13:18:54.739Z",
+    "timestamp": "2024-04-10T16:12:40.318Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -106,7 +106,14 @@
         },
         {
             "chainId": 81457,
-            "address": "0xfa21affa1c65d91aa369628af3a88794485a1450",
+            "address": "0x258133c3ecd19591544c01884227e4ae03f0dbd0",
+            "name": "USDB-LPT",
+            "symbol": "USDB-LPT",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-lp.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x6b61cfce05aaf44eba5da45def48c0fbd26390a1",
             "name": "USDB-LPT",
             "symbol": "USDB-LPT",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-lp.png"
@@ -148,7 +155,14 @@
         },
         {
             "chainId": 81457,
-            "address": "0xecc3b335c95b28a9477c42c847be6d8cac80cf25",
+            "address": "0xaa09cff22452a6d59836b1e2b3820815f52498b8",
+            "name": "WETH-LPT",
+            "symbol": "WETH-LPT",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-lp.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xb9612af20a0143661a695fcb0d176aa2bda2a332",
             "name": "WETH-LPT",
             "symbol": "WETH-LPT",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-lp.png"
