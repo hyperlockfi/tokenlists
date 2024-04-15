@@ -145,5 +145,17 @@ export const blastOverrides = {
       name: 'GLORY',
       symbol: 'GLORY',
     },
+    '0x049e6a52e2c9b7814c8178908f3630726c134c92': {
+      name: 'Ankr Staked ETH',
+      symbol: 'ankrETH',
+    },
+    '0x3580ac35bed2981d6bdd671a5982c2467d301241': {
+      name: 'Ankr Network',
+      symbol: 'ANKR',
+    },
+    '0x491e6de43b55c8eae702edc263e32339da42f58c': {
+      name: 'eesee',
+      symbol: 'ESE',
+    },
   },
 }

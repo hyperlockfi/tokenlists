@@ -52,4 +52,7 @@ export default [
   '0x4fee793d435c6d2c10c135983bb9d6d4fc7b9bbd', // usd+
   '0x15d24de366f69b835be19f7cf9447e770315dd80', // kap
   '0xd582879453337bd149ae53ec2092b0af5281d1d7', // glory
+  '0x049e6a52e2c9b7814c8178908f3630726c134c92', // ankereth
+  '0x3580ac35bed2981d6bdd671a5982c2467d301241', // ankr
+  '0x491e6de43b55c8eae702edc263e32339da42f58c' // ese
 ]
