@@ -157,5 +157,9 @@ export const blastOverrides = {
       name: 'eesee',
       symbol: 'ESE',
     },
+    '0x04c0599ae5a44757c0af6f9ec3b93da8976c150a': {
+      name: 'Wrapped eETH',
+      symbol: 'weETH',
+    },
   },
 }

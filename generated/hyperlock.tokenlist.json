@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-04-18T15:32:05.704Z",
+    "timestamp": "2024-04-19T16:35:55.862Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -390,6 +390,13 @@
             "name": "eesee",
             "symbol": "ESE",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x491e6de43b55c8eae702edc263e32339da42f58c.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+            "name": "Wrapped eETH",
+            "symbol": "weETH",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x04c0599ae5a44757c0af6f9ec3b93da8976c150a.png"
         },
         {
             "chainId": 1168587773,
