@@ -31,6 +31,10 @@ export const blastOverrides = {
       '0xaa09cff22452a6d59836b1e2b3820815f52498b8': getYieldToken('WETH-LPT', '0xaa09cff22452a6d59836b1e2b3820815f52498b8'),
       '0xb9612af20a0143661a695fcb0d176aa2bda2a332': getYieldToken('WETH-LPT', '0xb9612af20a0143661a695fcb0d176aa2bda2a332'),
       '0x1856c7e0b559e9d7287473cb4b4786398db4032a': getYieldToken('HyperWETH', '0x1856c7e0b559e9d7287473cb4b4786398db4032a'),
+      '0xc201db2c73a7583d6ec638f5a0337e4c12e8ee52': getYieldToken('EZETH:WETH', '0xc201db2c73a7583d6ec638f5a0337e4c12e8ee52'),
+      '0x93040d9775770a478370aea9f6048fe350e65544': getYieldToken('EZETH:WETH-PT', '0x93040d9775770a478370aea9f6048fe350e65544'),
+      '0xb7543dc092d11aef167b42e1cc4aeb30c49d2e19': getYieldToken('EZETH:WETH-YT', '0xb7543dc092d11aef167b42e1cc4aeb30c49d2e19'),
+      '0x65f28f49932181bd3cab189770f0e3dc850c57b5': getYieldToken('EZETH:WETH-SY', '0x65f28f49932181bd3cab189770f0e3dc850c57b5'),
     },
     // tokens
     '0x42e12d42b3d6c4a74a88a61063856756ea2db357': {

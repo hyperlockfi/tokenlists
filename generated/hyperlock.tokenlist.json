@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-04-19T16:35:55.862Z",
+    "timestamp": "2024-04-19T17:20:07.165Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -88,42 +88,42 @@
             "address": "0x1cde6a099a1cb14f3093d2b7cb5b7cbb2145cb64",
             "name": "USDB-PT",
             "symbol": "USDB-PT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-pt.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb.png"
         },
         {
             "chainId": 81457,
             "address": "0xc878aeb90e6c35d81a8ceaa8dbb89b35aee81c87",
             "name": "USDB-YT",
             "symbol": "USDB-YT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-yt.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb.png"
         },
         {
             "chainId": 81457,
             "address": "0x13293dacab830d8fa2e0e961fb997b3f37186f46",
             "name": "USDB-SY",
             "symbol": "USDB-SY",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-sy.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb.png"
         },
         {
             "chainId": 81457,
             "address": "0x258133c3ecd19591544c01884227e4ae03f0dbd0",
             "name": "USDB-LPT",
             "symbol": "USDB-LPT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-lp.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb.png"
         },
         {
             "chainId": 81457,
             "address": "0x6b61cfce05aaf44eba5da45def48c0fbd26390a1",
             "name": "USDB-LPT",
             "symbol": "USDB-LPT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-lp.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb.png"
         },
         {
             "chainId": 81457,
             "address": "0x390b781baf1e6db546cf4e3354b81446947838d2",
             "name": "HyperUSDB",
             "symbol": "HyperUSDB",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-lp.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb.png"
         },
         {
             "chainId": 81457,
@@ -137,42 +137,70 @@
             "address": "0xd4154f0175f5423de93dd1e1499f3a6801465375",
             "name": "WETH-PT",
             "symbol": "WETH-PT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-pt.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth.png"
         },
         {
             "chainId": 81457,
             "address": "0x22c1c2f9695d0cf8054472ef70510ec7c9640d04",
             "name": "WETH-YT",
             "symbol": "WETH-YT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-yt.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth.png"
         },
         {
             "chainId": 81457,
             "address": "0xb80ad10dffdd415c2159962c1b35ef6edcf1b505",
             "name": "WETH-SY",
             "symbol": "WETH-SY",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-sy.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth.png"
         },
         {
             "chainId": 81457,
             "address": "0xaa09cff22452a6d59836b1e2b3820815f52498b8",
             "name": "WETH-LPT",
             "symbol": "WETH-LPT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-lp.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth.png"
         },
         {
             "chainId": 81457,
             "address": "0xb9612af20a0143661a695fcb0d176aa2bda2a332",
             "name": "WETH-LPT",
             "symbol": "WETH-LPT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-lp.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth.png"
         },
         {
             "chainId": 81457,
             "address": "0x1856c7e0b559e9d7287473cb4b4786398db4032a",
             "name": "HyperWETH",
             "symbol": "HyperWETH",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-lp.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xc201db2c73a7583d6ec638f5a0337e4c12e8ee52",
+            "name": "EZETH:WETH",
+            "symbol": "EZETH:WETH",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/ezeth:weth.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x93040d9775770a478370aea9f6048fe350e65544",
+            "name": "EZETH:WETH-PT",
+            "symbol": "EZETH:WETH-PT",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/ezeth:weth.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xb7543dc092d11aef167b42e1cc4aeb30c49d2e19",
+            "name": "EZETH:WETH-YT",
+            "symbol": "EZETH:WETH-YT",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/ezeth:weth.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x65f28f49932181bd3cab189770f0e3dc850c57b5",
+            "name": "EZETH:WETH-SY",
+            "symbol": "EZETH:WETH-SY",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/ezeth:weth.png"
         },
         {
             "chainId": 81457,
@@ -459,21 +487,21 @@
             "address": "0x2100d2da8d51269607cdc503e58242471c5d54e7",
             "name": "USDB-PT",
             "symbol": "USDB-PT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-pt.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x0af63da91f2a50823863ab232253781cfd2b4695",
             "name": "USDB-YT",
             "symbol": "USDB-YT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-yt.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x52a53f25b2b717a02613a9259d3ed6a189b9d22a",
             "name": "USDB-SY",
             "symbol": "USDB-SY",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb-sy.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/usdb.png"
         },
         {
             "chainId": 1168587773,
@@ -487,21 +515,21 @@
             "address": "0x0e402b19f5bb665e558f197db3ed1ffbb6369876",
             "name": "WETH-PT",
             "symbol": "WETH-PT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-pt.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth.png"
         },
         {
             "chainId": 1168587773,
             "address": "0x6c07e20e618ac8b3f5f25b30d358ba62a458fd4d",
             "name": "WETH-YT",
             "symbol": "WETH-YT",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-yt.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth.png"
         },
         {
             "chainId": 1168587773,
             "address": "0xa1dd7ee93b5990851fca04257232d7062fe9c315",
             "name": "WETH-SY",
             "symbol": "WETH-SY",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth-sy.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/weth.png"
         }
     ]
 }

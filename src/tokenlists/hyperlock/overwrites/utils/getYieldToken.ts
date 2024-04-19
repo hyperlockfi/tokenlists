@@ -6,82 +6,77 @@ interface Token {
 }
 
 type Key =
+  // usdb
   | 'USDB'
   | 'USDB-PT'
   | 'USDB-YT'
   | 'USDB-SY'
   | 'USDB-LPT'
   | 'HyperUSDB'
+  // weth
   | 'WETH'
   | 'WETH-PT'
   | 'WETH-YT'
   | 'WETH-SY'
   | 'WETH-LPT'
   | 'HyperWETH'
+  // ezeth:weth
+  | 'EZETH:WETH'
+  | 'EZETH:WETH-PT'
+  | 'EZETH:WETH-YT'
+  | 'EZETH:WETH-SY'
 
-const data: Record<Key, Omit<Token, 'address'>> = {
+const data: Record<Key, Pick<Token, 'logoURI'>> = {
   USDB: {
-    name: 'USDB',
-    symbol: 'USDB',
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb'}.png`,
   },
   'USDB-PT': {
-    name: 'USDB-PT',
-    symbol: 'USDB-PT',
-    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb-pt'}.png`,
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb'}.png`,
   },
   'USDB-YT': {
-    name: 'USDB-YT',
-    symbol: 'USDB-YT',
-    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb-yt'}.png`,
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb'}.png`,
   },
   'USDB-SY': {
-    name: 'USDB-SY',
-    symbol: 'USDB-SY',
-    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb-sy'}.png`,
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb'}.png`,
   },
   'USDB-LPT': {
-    name: 'USDB-LPT',
-    symbol: 'USDB-LPT',
-    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb-lp'}.png`,
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb'}.png`,
   },
   HyperUSDB: {
-    name: 'HyperUSDB',
-    symbol: 'HyperUSDB',
-    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb-lp'}.png`,
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'usdb'}.png`,
   },
   WETH: {
-    name: 'WETH',
-    symbol: 'WETH',
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth'}.png`,
   },
   'WETH-PT': {
-    name: 'WETH-PT',
-    symbol: 'WETH-PT',
-    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth-pt'}.png`,
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth'}.png`,
   },
   'WETH-YT': {
-    name: 'WETH-YT',
-    symbol: 'WETH-YT',
-    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth-yt'}.png`,
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth'}.png`,
   },
   'WETH-SY': {
-    name: 'WETH-SY',
-    symbol: 'WETH-SY',
-    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth-sy'}.png`,
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth'}.png`,
   },
   'WETH-LPT': {
-    name: 'WETH-LPT',
-    symbol: 'WETH-LPT',
-    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth-lp'}.png`,
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth'}.png`,
   },
   HyperWETH: {
-    name: 'HyperWETH',
-    symbol: 'HyperWETH',
-    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth-lp'}.png`,
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth'}.png`,
+  },
+  "EZETH:WETH": {
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'ezeth:weth'}.png`,
+  },
+  "EZETH:WETH-PT": {
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'ezeth:weth'}.png`,
+  },
+  "EZETH:WETH-YT": {
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'ezeth:weth'}.png`,
+  },
+  "EZETH:WETH-SY": {
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'ezeth:weth'}.png`,
   },
 }
 
 export const getYieldToken = (key: Key, address: string) => {
-  return { ...data[key], address }
+  return { logoURI: data[key].logoURI, address, symbol: key, name: key }
 }

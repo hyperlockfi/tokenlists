@@ -23,6 +23,10 @@ export default [
   '0xaa09cff22452a6d59836b1e2b3820815f52498b8', // yield - weth-lp
   '0xb9612af20a0143661a695fcb0d176aa2bda2a332', // yield - weth-lp
   '0x1856c7e0b559e9d7287473cb4b4786398db4032a', // yield - hyper-weth
+  '0xc201db2c73a7583d6ec638f5a0337e4c12e8ee52', // yield - ezeth:weth
+  '0x93040d9775770a478370aea9f6048fe350e65544', // yield - ezeth:weth-pt 
+  '0xb7543dc092d11aef167b42e1cc4aeb30c49d2e19', // yield - ezeth:weth-yt
+  '0x65f28f49932181bd3cab189770f0e3dc850c57b5', // yield - ezeth:weth-sy
   // tokens
   '0x42e12d42b3d6c4a74a88a61063856756ea2db357', // orbit
   '0x216a5a1135a9dab49fa9ad865e0f22fe22b5630a', // pump
