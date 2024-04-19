@@ -25,6 +25,7 @@ type Key =
   | 'EZETH:WETH-PT'
   | 'EZETH:WETH-YT'
   | 'EZETH:WETH-SY'
+  | 'EZETH:WETH-LPT'
 
 const data: Record<Key, Pick<Token, 'logoURI'>> = {
   USDB: {
@@ -73,6 +74,9 @@ const data: Record<Key, Pick<Token, 'logoURI'>> = {
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'ezeth:weth'}.png`,
   },
   "EZETH:WETH-SY": {
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'ezeth:weth'}.png`,
+  },
+  "EZETH:WETH-LPT": {
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'ezeth:weth'}.png`,
   },
 }

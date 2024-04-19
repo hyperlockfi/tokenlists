@@ -35,6 +35,7 @@ export const blastOverrides = {
       '0x93040d9775770a478370aea9f6048fe350e65544': getYieldToken('EZETH:WETH-PT', '0x93040d9775770a478370aea9f6048fe350e65544'),
       '0xb7543dc092d11aef167b42e1cc4aeb30c49d2e19': getYieldToken('EZETH:WETH-YT', '0xb7543dc092d11aef167b42e1cc4aeb30c49d2e19'),
       '0x65f28f49932181bd3cab189770f0e3dc850c57b5': getYieldToken('EZETH:WETH-SY', '0x65f28f49932181bd3cab189770f0e3dc850c57b5'),
+      '0x92523143fc87ef79fd8a4461574fb0c07611d1fc': getYieldToken('EZETH:WETH-LPT', '0x92523143fc87ef79fd8a4461574fb0c07611d1fc'),
     },
     // tokens
     '0x42e12d42b3d6c4a74a88a61063856756ea2db357': {
