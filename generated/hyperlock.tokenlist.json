@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-04-29T21:00:23.750Z",
+    "timestamp": "2024-04-30T11:21:21.172Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -446,6 +446,24 @@
             "name": "Wrapped eETH",
             "symbol": "weETH",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x04c0599ae5a44757c0af6f9ec3b93da8976c150a.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x75483179a38d21f3608e71bbede5ec1314f0067d",
+            "name": "NeptuneX",
+            "symbol": "NPTX"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xc8d8d820f88df3bd48c4f8e95bca3b994b73c699",
+            "name": "mBLASTOPIANS",
+            "symbol": "mBLASTOPIANS"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x08e0948e952063a6396a24fc59554ac476bea66e",
+            "name": "UpTo3",
+            "symbol": "UPT"
         },
         {
             "chainId": 1168587773,
