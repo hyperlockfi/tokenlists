@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-04-30T11:21:21.172Z",
+    "timestamp": "2024-04-30T11:33:27.210Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -449,21 +449,24 @@
         },
         {
             "chainId": 81457,
-            "address": "0x75483179a38d21f3608e71bbede5ec1314f0067d",
+            "address": "0x75483179a38d21F3608E71bbEdE5EC1314F0067D",
             "name": "NeptuneX",
-            "symbol": "NPTX"
+            "symbol": "NPTX",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x75483179a38d21f3608e71bbede5ec1314f0067d.png"
         },
         {
             "chainId": 81457,
-            "address": "0xc8d8d820f88df3bd48c4f8e95bca3b994b73c699",
+            "address": "0xc8D8d820f88dF3bd48c4F8e95Bca3B994B73c699",
             "name": "mBLASTOPIANS",
-            "symbol": "mBLASTOPIANS"
+            "symbol": "mBLASTOPIANS",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xc8d8d820f88df3bd48c4f8e95bca3b994b73c699.png"
         },
         {
             "chainId": 81457,
-            "address": "0x08e0948e952063a6396a24fc59554ac476bea66e",
+            "address": "0x08e0948E952063a6396a24fc59554aC476bEa66e",
             "name": "UpTo3",
-            "symbol": "UPT"
+            "symbol": "UPT",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x08e0948e952063a6396a24fc59554ac476bea66e.png"
         },
         {
             "chainId": 1168587773,
