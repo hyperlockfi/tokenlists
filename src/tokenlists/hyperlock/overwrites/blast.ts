@@ -168,5 +168,17 @@ export const blastOverrides = {
       name: 'Wrapped eETH',
       symbol: 'weETH',
     },
+    '0x75483179a38d21f3608e71bbede5ec1314f0067d': {
+      name: 'NeptuneX',
+      symbol: 'NPTX',
+    },
+    '0xc8d8d820f88df3bd48c4f8e95bca3b994b73c699': {
+      name: 'mBLASTOPIANS',
+      symbol: 'mBLASTOPIANS',
+    },
+    '0x08e0948e952063a6396a24fc59554ac476bea66e': {
+      name: 'UpTo3',
+      symbol: 'UPT',
+    },
   },
 }
