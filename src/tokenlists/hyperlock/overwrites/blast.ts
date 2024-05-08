@@ -180,5 +180,9 @@ export const blastOverrides = {
       name: 'UpTo3',
       symbol: 'UPT',
     },
+    '0x7135b32e9903bdb4e19a8b1d22fc2038964b8451': {
+      name: 'EarlyFans',
+      symbol: 'EARLY',
+    },
   },
 }

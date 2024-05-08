@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-04-30T11:33:27.210Z",
+    "timestamp": "2024-05-08T12:14:06.092Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -467,6 +467,13 @@
             "name": "UpTo3",
             "symbol": "UPT",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x08e0948e952063a6396a24fc59554ac476bea66e.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x7135B32e9903BdB4e19a8b1D22fC2038964B8451",
+            "name": "EarlyFans",
+            "symbol": "EARLY",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x7135b32e9903bdb4e19a8b1d22fc2038964b8451.png"
         },
         {
             "chainId": 1168587773,

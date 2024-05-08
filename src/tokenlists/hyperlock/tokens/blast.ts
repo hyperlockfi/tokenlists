@@ -66,4 +66,5 @@ export default [
 	"0x75483179a38d21f3608e71bbede5ec1314f0067d", // nptx
 	"0xc8d8d820f88df3bd48c4f8e95bca3b994b73c699", // mblastopians
 	"0x08e0948e952063a6396a24fc59554ac476bea66e", // upt
+	"0x7135b32e9903bdb4e19a8b1d22fc2038964b8451", // earlyfans
 ];
