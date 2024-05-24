@@ -184,5 +184,9 @@ export const blastOverrides = {
       name: 'EarlyFans',
       symbol: 'EARLY',
     },
+    '0xb5a86030b64afaa75c42c0d28f8d5ce5f9f61401': {
+      name: 'Wolf Game WOOL',
+      symbol: 'WOLF',
+    },
   },
 }

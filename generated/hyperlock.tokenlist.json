@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-05-08T12:14:06.092Z",
+    "timestamp": "2024-05-24T14:49:57.486Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -474,6 +474,13 @@
             "name": "EarlyFans",
             "symbol": "EARLY",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x7135b32e9903bdb4e19a8b1d22fc2038964b8451.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xb5A86030b64AfAa75c42c0D28f8d5ce5f9f61401",
+            "name": "Wolf Game WOOL",
+            "symbol": "WOLF",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xb5a86030b64afaa75c42c0d28f8d5ce5f9f61401.png"
         },
         {
             "chainId": 1168587773,
