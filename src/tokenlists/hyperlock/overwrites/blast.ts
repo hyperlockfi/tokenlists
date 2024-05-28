@@ -188,5 +188,17 @@ export const blastOverrides = {
       name: 'Wolf Game WOOL',
       symbol: 'WOLF',
     },
+    '0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34': {
+      name: 'USDe',
+      symbol: 'USDe',
+    },
+    '0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2': {
+      name: 'Staked USDe',
+      symbol: 'sUSDe',
+    },
+    '0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d': {
+      name: 'InceptionLRT restaked ETH',
+      symbol: 'inETH',
+    },
   },
 }
