@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-05-24T14:49:57.486Z",
+    "timestamp": "2024-05-28T14:11:20.757Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -481,6 +481,24 @@
             "name": "Wolf Game WOOL",
             "symbol": "WOLF",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xb5a86030b64afaa75c42c0d28f8d5ce5f9f61401.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+            "name": "USDe",
+            "symbol": "USDe"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+            "name": "Staked USDe",
+            "symbol": "sUSDe"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d",
+            "name": "InceptionLRT restaked ETH",
+            "symbol": "inETH"
         },
         {
             "chainId": 1168587773,
