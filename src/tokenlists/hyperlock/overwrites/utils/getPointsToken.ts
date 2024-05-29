@@ -16,6 +16,7 @@ type Key =
   | 'GOLD'
   | 'KELP'
   | 'ETHERFI'
+  | 'ETHENA'
 
 const data: Record<Key, Omit<Token, 'address'>> = {
   JUICE: {
@@ -67,6 +68,11 @@ const data: Record<Key, Omit<Token, 'address'>> = {
     name: 'ETHERFI',
     symbol: 'ETHERFI',
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'etherfi'}.png`,
+  },
+  ETHENA: {
+    name: 'ETHENA',
+    symbol: 'ETHENA',
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'ethena'}.png`,
   },
 }
 
