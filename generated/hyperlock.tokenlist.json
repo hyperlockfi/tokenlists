@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-05-29T10:59:23.857Z",
+    "timestamp": "2024-06-04T15:05:26.440Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -92,10 +92,17 @@
         },
         {
             "chainId": 81457,
-            "address": "0x0000000000000000000000000000000000000011",
+            "address": "0x00000000000000000000000000000000000000011",
             "name": "ETHENA",
             "symbol": "ETHENA",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/ethena.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x00000000000000000000000000000000000000012",
+            "name": "TURTLE",
+            "symbol": "TURTLE",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/turtleclub.png"
         },
         {
             "chainId": 81457,
