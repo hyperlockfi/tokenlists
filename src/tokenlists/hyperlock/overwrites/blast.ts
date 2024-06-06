@@ -206,5 +206,9 @@ export const blastOverrides = {
       name: 'AIWAIFU',
       symbol: '$WAI',
     },
+    '0x8e38179D361402f6a94767757e807146609E9B3d': {
+      name: 'Dola USD Stablecoin',
+      symbol: 'DOLA',
+    },
   },
 }

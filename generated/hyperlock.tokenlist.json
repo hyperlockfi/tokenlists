@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-06T05:15:06.819Z",
+    "timestamp": "2024-06-06T10:53:46.593Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -523,6 +523,12 @@
             "name": "AIWAIFU",
             "symbol": "$WAI",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x129ed667bf8c065fe5f66c9b44b7cb0126d85cc3.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x8e38179d361402f6a94767757e807146609e9b3d",
+            "name": "Dola USD Stablecoin",
+            "symbol": "DOLA"
         },
         {
             "chainId": 1168587773,
