@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-04T15:05:26.440Z",
+    "timestamp": "2024-06-06T05:15:06.819Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -92,14 +92,14 @@
         },
         {
             "chainId": 81457,
-            "address": "0x00000000000000000000000000000000000000011",
+            "address": "0x0000000000000000000000000000000000000011",
             "name": "ETHENA",
             "symbol": "ETHENA",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/ethena.png"
         },
         {
             "chainId": 81457,
-            "address": "0x00000000000000000000000000000000000000012",
+            "address": "0x0000000000000000000000000000000000000012",
             "name": "TURTLE",
             "symbol": "TURTLE",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/turtleclub.png"
@@ -516,6 +516,13 @@
             "name": "InceptionLRT restaked ETH",
             "symbol": "inETH",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x129ed667bf8C065fE5f66c9b44B7cB0126D85cC3",
+            "name": "AIWAIFU",
+            "symbol": "$WAI",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x129ed667bf8c065fe5f66c9b44b7cb0126d85cc3.png"
         },
         {
             "chainId": 1168587773,

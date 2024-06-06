@@ -73,4 +73,5 @@ export default [
 	"0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34", // USDe
 	"0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2", // sUSDe
 	"0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d", // inETH
+	'0x129ed667bf8c065fe5f66c9b44b7cb0126d85cc3', // $WAI
 ];
