@@ -210,5 +210,13 @@ export const blastOverrides = {
       name: 'Dola USD Stablecoin',
       symbol: 'DOLA',
     },
+    '0x472df997a253a8ae94121572d2017a7232705ab2': {
+      name: 'BLAST BUS',
+      symbol: 'BUS',
+    },
+    '0xb6e0d8a730c6e5c85c637b1cf7ad6fd07927b965': {
+      name: 'Blastin Pepes',
+      symbol: 'bPEPE',
+    },
   },
 }

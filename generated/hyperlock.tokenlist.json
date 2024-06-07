@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-06T11:29:59.006Z",
+    "timestamp": "2024-06-07T08:27:18.158Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -530,6 +530,20 @@
             "name": "Dola USD Stablecoin",
             "symbol": "DOLA",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x8e38179d361402f6a94767757e807146609e9b3d.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x472DF997A253A8aE94121572D2017A7232705ab2",
+            "name": "BLAST BUS",
+            "symbol": "BUS",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x472df997a253a8ae94121572d2017a7232705ab2.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xB6e0d8A730C6e5c85c637b1cf7aD6fD07927b965",
+            "name": "Blastin Pepes",
+            "symbol": "bPEPE",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xb6e0d8a730c6e5c85c637b1cf7ad6fd07927b965.png"
         },
         {
             "chainId": 1168587773,
