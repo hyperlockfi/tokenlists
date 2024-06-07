@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-07T08:27:18.158Z",
+    "timestamp": "2024-06-07T09:14:18.111Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -544,6 +544,13 @@
             "name": "Blastin Pepes",
             "symbol": "bPEPE",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xb6e0d8a730c6e5c85c637b1cf7ad6fd07927b965.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xB3443DD8590eC811726DF6909D9BCa6d6d4e250E",
+            "name": "Wrapped Ethlas",
+            "symbol": "WELS",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xb3443dd8590ec811726df6909d9bca6d6d4e250e.png"
         },
         {
             "chainId": 1168587773,

@@ -218,5 +218,9 @@ export const blastOverrides = {
       name: 'Blastin Pepes',
       symbol: 'bPEPE',
     },
+    '0xb3443dd8590ec811726df6909d9bca6d6d4e250e':{
+      name: 'Wrapped Ethlas',
+      symbol: 'WELS',
+    },
   },
 }
