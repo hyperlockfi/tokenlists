@@ -78,4 +78,6 @@ export default [
 	'0x472df997a253a8ae94121572d2017a7232705ab2', // BUS
 	'0xb6e0d8a730c6e5c85c637b1cf7ad6fd07927b965', // bPEPE
 	'0xb3443dd8590ec811726df6909d9bca6d6d4e250e', // WELS
+	'0x1da40c742f32bbee81694051c0ee07485fc630f6', // DETH 
+	'0x1a3d9b2fa5c6522c8c071dc07125ce55df90b253', // DUSD
 ];

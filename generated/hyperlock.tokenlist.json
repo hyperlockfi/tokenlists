@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-07T09:14:18.111Z",
+    "timestamp": "2024-06-09T18:06:33.669Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -551,6 +551,20 @@
             "name": "Wrapped Ethlas",
             "symbol": "WELS",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xb3443dd8590ec811726df6909d9bca6d6d4e250e.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x1Da40C742F32bBEe81694051c0eE07485fC630f6",
+            "name": "Duo ETH",
+            "symbol": "DETH",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x1da40c742f32bbee81694051c0ee07485fc630f6.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x1A3D9B2fa5c6522c8c071dC07125cE55dF90b253",
+            "name": "Duo USD",
+            "symbol": "DUSD",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x1a3d9b2fa5c6522c8c071dc07125ce55df90b253.png"
         },
         {
             "chainId": 1168587773,

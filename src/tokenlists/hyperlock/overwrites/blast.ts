@@ -222,5 +222,13 @@ export const blastOverrides = {
       name: 'Wrapped Ethlas',
       symbol: 'WELS',
     },
+    '0x1da40c742f32bbee81694051c0ee07485fc630f6':{
+      name: 'Duo ETH',
+      symbol: 'DETH',
+    },
+    '0x1a3d9b2fa5c6522c8c071dc07125ce55df90b253':{
+      name: 'Duo USD',
+      symbol: 'DUSD',
+    },
   },
 }
