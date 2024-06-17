@@ -84,7 +84,7 @@ const data: Record<Key, Omit<Token, 'address'>> = {
   SPLICE: {
     name: 'SPLICE',
     symbol: 'SPLICE',
-    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'splce'}.png`,
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'splice'}.png`,
   },
 }
 

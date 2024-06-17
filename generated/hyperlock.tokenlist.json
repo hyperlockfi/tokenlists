@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-17T16:20:54.903Z",
+    "timestamp": "2024-06-17T16:23:42.845Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -109,7 +109,7 @@
             "address": "0x0000000000000000000000000000000000000013",
             "name": "SPLICE",
             "symbol": "SPLICE",
-            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/splce.png"
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/splice.png"
         },
         {
             "chainId": 81457,
