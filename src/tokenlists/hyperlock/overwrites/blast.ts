@@ -243,5 +243,9 @@ export const blastOverrides = {
       name: 'Yolo',
       symbol: 'YOLO',
     },
+    '0xe6a062fba3918376500a602c800b1e0307420457': {
+      name: 'GREED',
+      symbol: 'GREED',
+    },
   },
 }

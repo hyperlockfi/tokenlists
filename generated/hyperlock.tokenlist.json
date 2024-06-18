@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-18T13:13:04.986Z",
+    "timestamp": "2024-06-18T13:36:41.308Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -593,6 +593,13 @@
             "name": "Yolo",
             "symbol": "YOLO",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xf77dd21c5ce38ac08786be35ef1d1dec1a6a15f3.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xe6A062fba3918376500A602c800b1E0307420457",
+            "name": "GREED",
+            "symbol": "GREED",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xe6a062fba3918376500a602c800b1e0307420457.png"
         },
         {
             "chainId": 1168587773,
