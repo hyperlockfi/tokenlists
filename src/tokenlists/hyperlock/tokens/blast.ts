@@ -81,4 +81,7 @@ export default [
 	'0xb3443dd8590ec811726df6909d9bca6d6d4e250e', // WELS
 	'0x1da40c742f32bbee81694051c0ee07485fc630f6', // DETH 
 	'0x1a3d9b2fa5c6522c8c071dc07125ce55df90b253', // DUSD
+	'0x406f10d635be12ad33d6b133c6da89180f5b999e', // BLAST LOOKSRARE
+	'0x357f93e17fdabecd3fefc488a2d27dff8065d00f', // ZEROLEND
+	'0xf77dd21c5ce38ac08786be35ef1d1dec1a6a15f3', // YOLO
 ];

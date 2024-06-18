@@ -231,5 +231,17 @@ export const blastOverrides = {
       name: 'Duo USD',
       symbol: 'DUSD',
     },
+    '0x406f10d635be12ad33d6b133c6da89180f5b999e': {
+      name: 'Blast LooksRare',
+      symbol: 'bLOOKS',
+    },
+    '0x357f93e17fdabecd3fefc488a2d27dff8065d00f': {
+      name: 'ZeroLend',
+      symbol: 'ZERO',
+    },
+    '0xf77dd21c5ce38ac08786be35ef1d1dec1a6a15f3': {
+      name: 'Yolo',
+      symbol: 'YOLO',
+    },
   },
 }

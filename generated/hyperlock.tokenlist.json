@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-17T16:23:42.845Z",
+    "timestamp": "2024-06-18T13:13:04.986Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -572,6 +572,27 @@
             "name": "Duo USD",
             "symbol": "DUSD",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x1a3d9b2fa5c6522c8c071dc07125ce55df90b253.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x406F10d635be12ad33D6B133C6DA89180f5B999e",
+            "name": "Blast LooksRare",
+            "symbol": "bLOOKS",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x406f10d635be12ad33d6b133c6da89180f5b999e.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x357f93E17FdabEcd3fEFc488a2d27dff8065d00f",
+            "name": "ZeroLend",
+            "symbol": "ZERO",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x357f93e17fdabecd3fefc488a2d27dff8065d00f.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xf77dd21c5ce38ac08786BE35Ef1d1DeC1a6a15F3",
+            "name": "Yolo",
+            "symbol": "YOLO",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xf77dd21c5ce38ac08786be35ef1d1dec1a6a15f3.png"
         },
         {
             "chainId": 1168587773,
