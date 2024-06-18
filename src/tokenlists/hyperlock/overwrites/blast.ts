@@ -247,5 +247,9 @@ export const blastOverrides = {
       name: 'GREED',
       symbol: 'GREED',
     },
+    '0xebe265c9299d0c879bcc2a76948511ba6ed6c36d': {
+      name: 'CNOTE-OFT',
+      symbol: 'CNOTE-OFT',
+    },
   },
 }

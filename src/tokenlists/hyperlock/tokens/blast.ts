@@ -85,4 +85,5 @@ export default [
 	'0x357f93e17fdabecd3fefc488a2d27dff8065d00f', // ZEROLEND
 	'0xf77dd21c5ce38ac08786be35ef1d1dec1a6a15f3', // YOLO
 	'0xe6a062fba3918376500a602c800b1e0307420457', // GREED
+	'0xebe265c9299d0c879bcc2a76948511ba6ed6c36d', // CNOTE-OFT
 ];
