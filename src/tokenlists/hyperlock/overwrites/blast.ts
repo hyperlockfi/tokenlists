@@ -251,5 +251,9 @@ export const blastOverrides = {
       name: 'CNOTE-OFT',
       symbol: 'CNOTE-OFT',
     },
+    '0x4bed2a922654cacc2be974689619768fabf24855': {
+      name: 'Wasabi USDB',
+      symbol: 'wUSDB'
+    }
   },
 }
