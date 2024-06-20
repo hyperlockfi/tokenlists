@@ -87,4 +87,5 @@ export default [
 	'0xe6a062fba3918376500a602c800b1e0307420457', // GREED
 	'0xebe265c9299d0c879bcc2a76948511ba6ed6c36d', // CNOTE-OFT
 	'0x4bed2a922654cacc2be974689619768fabf24855', // WASABI USDB
+	'0xc608dfb90a430df79a8a1edbc8be7f1a0eb4e763', // Alladin rUSD
 ];

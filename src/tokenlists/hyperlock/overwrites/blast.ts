@@ -254,6 +254,10 @@ export const blastOverrides = {
     '0x4bed2a922654cacc2be974689619768fabf24855': {
       name: 'Wasabi USDB',
       symbol: 'wUSDB'
+    },
+    '0xc608dfb90a430df79a8a1edbc8be7f1a0eb4e763': {
+      name: 'Alladin rUSD',
+      symbol: 'ARUSD'
     }
   },
 }

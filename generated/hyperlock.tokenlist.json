@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-19T18:30:11.316Z",
+    "timestamp": "2024-06-20T17:55:30.785Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -614,6 +614,13 @@
             "name": "Wasabi USDB",
             "symbol": "wUSDB",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x4bed2a922654cacc2be974689619768fabf24855.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763",
+            "name": "Alladin rUSD",
+            "symbol": "ARUSD",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xc608dfb90a430df79a8a1edbc8be7f1a0eb4e763.png"
         },
         {
             "chainId": 1168587773,
