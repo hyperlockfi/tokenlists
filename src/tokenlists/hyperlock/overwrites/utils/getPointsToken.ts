@@ -19,6 +19,7 @@ type Key =
   | 'ETHENA'
   | 'TURTLE'
   | 'SPLICE'
+  | 'FXN'
 
 const data: Record<Key, Omit<Token, 'address'>> = {
   JUICE: {
@@ -86,7 +87,13 @@ const data: Record<Key, Omit<Token, 'address'>> = {
     symbol: 'SPLICE',
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'splice'}.png`,
   },
+  FXN: {
+    name: 'FXN',
+    symbol: 'FXN',
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'fxn'}.png`,
+  }
 }
+
 
 export const getPointsToken = (key: Key, address: string) => {
   return { ...data[key], address }
