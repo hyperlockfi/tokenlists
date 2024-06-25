@@ -107,6 +107,10 @@ const convertToPng = () => {
       rm "$file"
     done
     `
+
+    const resize = `
+    cd ${directory} && sips -Z 128 *.png
+    `
     
     exec(command, (error: any, stdout: any, stderr:any) => {
         if (error) {
@@ -119,6 +123,8 @@ const convertToPng = () => {
         }
         console.log(`stdout: ${stdout}`);
     });
+
+    exec(resize)
 }
 
 const updateTokenList = (path: string, tokens: TokenInfo[]) => {
