@@ -5,6 +5,10 @@ import { Network, ThrusterTokenInfo } from './types'
 import https from 'https'
 const { exec } = require('child_process');
 
+const IGNORE_REMOTE: Record<string, boolean> = {
+    '0x0000000000000000000000000000000000000000': true
+}
+
 async function run() {
     const remoteData = await compareToLocal()
     const remoteTokens = await generateTokens(Network.Blast, remoteData)
@@ -54,7 +58,7 @@ async function generateTokens(
             logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/${token.tokenAddress.toLowerCase()}.png`,
             decimals: token.tokenDecimals
         } as unknown as TokenInfo
-        tokens.push(newToken)
+        if(!IGNORE_REMOTE[token.tokenAddress]) tokens.push(newToken)
     }
 
     return tokens
