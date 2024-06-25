@@ -259,6 +259,6 @@ export const blastOverrides = {
     '0xc608dfb90a430df79a8a1edbc8be7f1a0eb4e763': {
       name: 'Alladin rUSD',
       symbol: 'ARUSD'
-    }
+    },
   },
 }

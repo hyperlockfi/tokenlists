@@ -23,6 +23,14 @@ export type PartialTokenInfoMap = {
   [address: string]: Partial<TokenInfo>
 }
 
+export type ThrusterTokenInfo = {
+  tokenAddress: string
+  tokenName: string
+  tokenSymbol: string
+  tokenDecimals: number
+  tokenCategory: string
+}
+
 export type TokenListMetadata = Pick<
   TokenList,
   'name' | 'logoURI' | 'keywords' | 'version'
