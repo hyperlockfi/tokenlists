@@ -9,7 +9,7 @@ async function run() {
     const remoteData = await compareToLocal()
     const remoteTokens = await generateTokens(Network.Blast, remoteData)
     await getIcons(remoteTokens)
-    convertToPng()
+    convertToPng(remoteTokens.length > 0)
     updateTokenList('./src/tokenlists/hyperlock/tokens/blast.ts', remoteTokens)
     updateTokenInfo('./src/tokenlists/hyperlock/overwrites/blast.ts', remoteTokens)
 }
@@ -94,8 +94,9 @@ async function getIcons(newTokens: TokenInfo[]) {
     }
 }
 
-const convertToPng = () => {
+const convertToPng = (newTokens: boolean) => {
 
+    if (!newTokens) return
     // Directory containing the SVG files
     const directory = 'src/assets/images/tokens'
     
