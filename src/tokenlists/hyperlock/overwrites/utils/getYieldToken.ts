@@ -64,19 +64,19 @@ const data: Record<Key, Pick<Token, 'logoURI'>> = {
   HyperWETH: {
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'weth'}.png`,
   },
-  "EZETH:WETH": {
+  'EZETH:WETH': {
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'ezeth:weth'}.png`,
   },
-  "EZETH:WETH-PT": {
+  'EZETH:WETH-PT': {
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'ezeth:weth'}.png`,
   },
-  "EZETH:WETH-YT": {
+  'EZETH:WETH-YT': {
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'ezeth:weth'}.png`,
   },
-  "EZETH:WETH-SY": {
+  'EZETH:WETH-SY': {
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'ezeth:weth'}.png`,
   },
-  "EZETH:WETH-LPT": {
+  'EZETH:WETH-LPT': {
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/yield/${'ezeth:weth'}.png`,
   },
 }

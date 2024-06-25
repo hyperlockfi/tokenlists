@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-23T07:09:25.451Z",
+    "timestamp": "2024-06-25T13:08:49.849Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -628,6 +628,188 @@
             "name": "Alladin rUSD",
             "symbol": "ARUSD",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xc608dfb90a430df79a8a1edbc8be7f1a0eb4e763.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x000000dAA580e54635a043D2773f2c698593836a",
+            "name": "Oh No",
+            "symbol": "OHNO",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x000000daa580e54635a043d2773f2c698593836a.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x0A4B0263589750E6383e199310Be98E6e2deE258",
+            "name": "WORLD PEACE",
+            "symbol": "PEACE",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x0a4b0263589750e6383e199310be98e6e2dee258.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x0B4d0ee29857c3961b380d4ec138EA5814E346b9",
+            "name": "P@cman Blastoff",
+            "symbol": "$PACM",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x0b4d0ee29857c3961b380d4ec138ea5814e346b9.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x0c2fFacD70c1D1CB04D4803Dea055DD9D4B57601",
+            "name": "BlastName Service",
+            "symbol": "BNS",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x0c2ffacd70c1d1cb04d4803dea055dd9d4b57601.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x1a49351bdB4BE48C0009b661765D01ed58E8C2d8",
+            "name": "YESv2",
+            "symbol": "YES",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x1a49351bdb4be48c0009b661765d01ed58e8c2d8.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x236bb48fcF61ce996B2C8C196a9258c176100c7d",
+            "name": "RabbitX",
+            "symbol": "RBX",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x236bb48fcf61ce996b2c8c196a9258c176100c7d.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x5D68d64e80F47EFF763B087DeAAe46fF25205674",
+            "name": "SWIM",
+            "symbol": "$SWIM",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x5d68d64e80f47eff763b087deaae46ff25205674.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x6531ae67098Bc73Db9179DcBc6F161FCd9fd4c01",
+            "name": "MetaStreet V2 Deposit: PPG-WETH:10",
+            "symbol": "mWETH-PPG:10",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x6531ae67098bc73db9179dcbc6f161fcd9fd4c01.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x68449870EEa84453044Bd430822827E21Fd8F101",
+            "name": "ZAIBOT.io",
+            "symbol": "ZAI",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x68449870eea84453044bd430822827e21fd8f101.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x6Cc87c5ab2CFac0F2d582286f5BA69cA555FecB0",
+            "name": "AIRcoin",
+            "symbol": "AIR",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x6cc87c5ab2cfac0f2d582286f5ba69ca555fecb0.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x73c369F61c90f03eb0Dd172e95c90208A28dC5bc",
+            "name": "OpenLeverage",
+            "symbol": "OLE",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x73c369f61c90f03eb0dd172e95c90208a28dc5bc.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x764933fbAd8f5D04Ccd088602096655c2ED9879F",
+            "name": "Any Inu",
+            "symbol": "AI",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x764933fbad8f5d04ccd088602096655c2ed9879f.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x76D6556758365e63e48A0DFAfd19C8DBa15F97eE",
+            "name": "BIG",
+            "symbol": "BIG",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x76d6556758365e63e48a0dfafd19c8dba15f97ee.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x836aED3b0E0ee44C77e0b6Db34D170AbCCe9BaAC",
+            "name": "Wand USDBx",
+            "symbol": "USDBx",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x836aed3b0e0ee44c77e0b6db34d170abcce9baac.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x870a8F46b62B8BDeda4c02530C1750CddF2ED32e",
+            "name": "USDC+",
+            "symbol": "USDC+",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x870a8f46b62b8bdeda4c02530c1750cddf2ed32e.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x87E154E86Fb691AB8A27116e93Ed8d54e2b8C18C",
+            "name": "Titan Trading Token",
+            "symbol": "TES",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x87e154e86fb691ab8a27116e93ed8d54e2b8c18c.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x891c9B37177Bdf8Edc891119C9d8aEefDa9A5246",
+            "name": "VROOM",
+            "symbol": "VROOM",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x891c9b37177bdf8edc891119c9d8aeefda9a5246.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B",
+            "name": "Mia",
+            "symbol": "MIA",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xa4c7aa67189ec5623121c6c94ec757dfed932d4b.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xB582Dc28968c725D2868130752aFa0c13EbF9b1a",
+            "name": "Blast Pepe",
+            "symbol": "BEPE",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xb582dc28968c725d2868130752afa0c13ebf9b1a.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xcBf7B47E9da345812e3Bd732E3EE369a7203B5ae",
+            "name": "pSTAKE Finance",
+            "symbol": "PSTAKE",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xcbf7b47e9da345812e3bd732e3ee369a7203b5ae.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xCC50560827465F25132929711D5b2cf78625d399",
+            "name": "Ghost Coin",
+            "symbol": "GHOST",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xcc50560827465f25132929711d5b2cf78625d399.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xcDbe12611F18B43098202d45928c905b34736C06",
+            "name": "NOGOLD",
+            "symbol": "NOGOLD",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xcdbe12611f18b43098202d45928c905b34736c06.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xD71035849D2fBA67533bF50900a3E8B684ac1B42",
+            "name": "BlastName Dot",
+            "symbol": "BND",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd71035849d2fba67533bf50900a3e8b684ac1b42.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xd79d6Fe06F4C2b17291015169d1443f50D0C2838",
+            "name": "Wand ETHx",
+            "symbol": "ETHx",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd79d6fe06f4c2b17291015169d1443f50d0c2838.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xD86b2B6f1169e4304Be700D6522c3Ff79FF8fB77",
+            "name": "Wand USB",
+            "symbol": "USB",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd86b2b6f1169e4304be700d6522c3ff79ff8fb77.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xfd4D19F9FBb9F730C3C88a21755832BD2455144e",
+            "name": "SSS",
+            "symbol": "SSS",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xfd4d19f9fbb9f730c3c88a21755832bd2455144e.png"
         },
         {
             "chainId": 1168587773,

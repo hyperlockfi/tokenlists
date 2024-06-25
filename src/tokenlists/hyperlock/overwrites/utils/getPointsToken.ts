@@ -91,9 +91,8 @@ const data: Record<Key, Omit<Token, 'address'>> = {
     name: 'FXN',
     symbol: 'FXN',
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'fxn'}.png`,
-  }
+  },
 }
-
 
 export const getPointsToken = (key: Key, address: string) => {
   return { ...data[key], address }
