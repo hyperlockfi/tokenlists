@@ -220,15 +220,15 @@ export const blastOverrides = {
       name: 'Blastin Pepes',
       symbol: 'bPEPE',
     },
-    '0xb3443dd8590ec811726df6909d9bca6d6d4e250e':{
+    '0xb3443dd8590ec811726df6909d9bca6d6d4e250e': {
       name: 'Wrapped Ethlas',
       symbol: 'WELS',
     },
-    '0x1da40c742f32bbee81694051c0ee07485fc630f6':{
+    '0x1da40c742f32bbee81694051c0ee07485fc630f6': {
       name: 'Duo ETH',
       symbol: 'DETH',
     },
-    '0x1a3d9b2fa5c6522c8c071dc07125ce55df90b253':{
+    '0x1a3d9b2fa5c6522c8c071dc07125ce55df90b253': {
       name: 'Duo USD',
       symbol: 'DUSD',
     },
@@ -254,11 +254,115 @@ export const blastOverrides = {
     },
     '0x4bed2a922654cacc2be974689619768fabf24855': {
       name: 'Wasabi USDB',
-      symbol: 'wUSDB'
+      symbol: 'wUSDB',
     },
     '0xc608dfb90a430df79a8a1edbc8be7f1a0eb4e763': {
       name: 'Alladin rUSD',
-      symbol: 'ARUSD'
-    }
+      symbol: 'ARUSD',
+    },
+    '0x000000daa580e54635a043d2773f2c698593836a': {
+      name: 'Oh No',
+      symbol: 'OHNO',
+    },
+    '0x0a4b0263589750e6383e199310be98e6e2dee258': {
+      name: 'WORLD PEACE',
+      symbol: 'PEACE',
+    },
+    '0x0b4d0ee29857c3961b380d4ec138ea5814e346b9': {
+      name: 'P@cman Blastoff',
+      symbol: '$PACM',
+    },
+    '0x0c2ffacd70c1d1cb04d4803dea055dd9d4b57601': {
+      name: 'BlastName Service',
+      symbol: 'BNS',
+    },
+    '0x1a49351bdb4be48c0009b661765d01ed58e8c2d8': {
+      name: 'YESv2',
+      symbol: 'YES',
+    },
+    '0x236bb48fcf61ce996b2c8c196a9258c176100c7d': {
+      name: 'RabbitX',
+      symbol: 'RBX',
+    },
+    '0x5d68d64e80f47eff763b087deaae46ff25205674': {
+      name: 'SWIM',
+      symbol: '$SWIM',
+    },
+    '0x6531ae67098bc73db9179dcbc6f161fcd9fd4c01': {
+      name: 'MetaStreet V2 Deposit: PPG-WETH:10',
+      symbol: 'mWETH-PPG:10',
+    },
+    '0x68449870eea84453044bd430822827e21fd8f101': {
+      name: 'ZAIBOT.io',
+      symbol: 'ZAI',
+    },
+    '0x6cc87c5ab2cfac0f2d582286f5ba69ca555fecb0': {
+      name: 'AIRcoin',
+      symbol: 'AIR',
+    },
+    '0x73c369f61c90f03eb0dd172e95c90208a28dc5bc': {
+      name: 'OpenLeverage',
+      symbol: 'OLE',
+    },
+    '0x764933fbad8f5d04ccd088602096655c2ed9879f': {
+      name: 'Any Inu',
+      symbol: 'AI',
+    },
+    '0x76d6556758365e63e48a0dfafd19c8dba15f97ee': {
+      name: 'BIG',
+      symbol: 'BIG',
+    },
+    '0x836aed3b0e0ee44c77e0b6db34d170abcce9baac': {
+      name: 'Wand USDBx',
+      symbol: 'USDBx',
+    },
+    '0x870a8f46b62b8bdeda4c02530c1750cddf2ed32e': {
+      name: 'USDC+',
+      symbol: 'USDC+',
+    },
+    '0x87e154e86fb691ab8a27116e93ed8d54e2b8c18c': {
+      name: 'Titan Trading Token',
+      symbol: 'TES',
+    },
+    '0x891c9b37177bdf8edc891119c9d8aeefda9a5246': {
+      name: 'VROOM',
+      symbol: 'VROOM',
+    },
+    '0xa4c7aa67189ec5623121c6c94ec757dfed932d4b': {
+      name: 'Mia',
+      symbol: 'MIA',
+    },
+    '0xb582dc28968c725d2868130752afa0c13ebf9b1a': {
+      name: 'Blast Pepe',
+      symbol: 'BEPE',
+    },
+    '0xcbf7b47e9da345812e3bd732e3ee369a7203b5ae': {
+      name: 'pSTAKE Finance',
+      symbol: 'PSTAKE',
+    },
+    '0xcc50560827465f25132929711d5b2cf78625d399': {
+      name: 'Ghost Coin',
+      symbol: 'GHOST',
+    },
+    '0xcdbe12611f18b43098202d45928c905b34736c06': {
+      name: 'NOGOLD',
+      symbol: 'NOGOLD',
+    },
+    '0xd71035849d2fba67533bf50900a3e8b684ac1b42': {
+      name: 'BlastName Dot',
+      symbol: 'BND',
+    },
+    '0xd79d6fe06f4c2b17291015169d1443f50d0c2838': {
+      name: 'Wand ETHx',
+      symbol: 'ETHx',
+    },
+    '0xd86b2b6f1169e4304be700d6522c3ff79ff8fb77': {
+      name: 'Wand USB',
+      symbol: 'USB',
+    },
+    '0xfd4d19f9fbb9f730c3c88a21755832bd2455144e': {
+      name: 'SSS',
+      symbol: 'SSS',
+    },
   },
 }

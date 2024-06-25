@@ -4,6 +4,7 @@
   "description": "Hyperlock tokenlist generator",
   "scripts": {
     "generate": "ts-node src/generator.ts",
+    "fetch-remote": "ts-node src/remote-generator.ts",
     "tokenlist:create": "node src/lib/scripts/create-tokenlist.js",
     "lint": "eslint . --ext .js,.ts --max-warnings 0",
     "lint:fix": "pnpm run lint -- --fix",
