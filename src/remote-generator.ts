@@ -134,7 +134,7 @@ const convertToPng = (newTokens: boolean) => {
 
 const updateTokenList = (path: string, tokens: TokenInfo[]) => {
     const tokenList = fs.readFileSync(path, 'utf8').toString().split("\n")
-    tokenList.splice(tokenList.length-2, 0, ...tokens.map(({address, name}) => `\t'${address}', //${name}`))
+    tokenList.splice(tokenList.length-2, 0, ...tokens.map(({address, name}) => `\t'${address}', // ${name}`))
     fs.writeFileSync(path, tokenList.join("\n"))
     //console.log(tokenList)
 }
