@@ -46,6 +46,12 @@ export const sepoliaOverrides = {
       symbol: 'EIGEN',
       logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'eigen'}.png`,
     },
+    '0x0000000000000000000000000000000000000020': {
+      address: '0x0000000000000000000000000000000000000020',
+      name: 'veTHRUST',
+      symbol: 'veTHRUST',
+      logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'vethrust'}.png`,
+    },
     // prettier-ignore
     ...{ // yield
       '0x4200000000000000000000000000000000000022': getYieldToken('USDB', '0x4200000000000000000000000000000000000022'),

@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-25T13:08:49.849Z",
+    "timestamp": "2024-06-26T11:53:38.770Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -859,6 +859,13 @@
             "name": "EIGEN",
             "symbol": "EIGEN",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/eigen.png"
+        },
+        {
+            "chainId": 1168587773,
+            "address": "0x0000000000000000000000000000000000000020",
+            "name": "veTHRUST",
+            "symbol": "veTHRUST",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/vethrust.png"
         },
         {
             "chainId": 1168587773,
