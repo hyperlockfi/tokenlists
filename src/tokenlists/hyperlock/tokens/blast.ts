@@ -115,4 +115,6 @@ export default [
   '0xd79d6fe06f4c2b17291015169d1443f50d0c2838', // Wand ETHx
   '0xd86b2b6f1169e4304be700d6522c3ff79ff8fb77', // Wand USB
   '0xfd4d19f9fbb9f730c3c88a21755832bd2455144e', // SSS
+	'0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad', // Blast
+	'0xdc60c24de182b07cb3f3a9269f120d8c15c4b381', // Digital Art Movement
 ]

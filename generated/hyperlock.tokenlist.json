@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-26T11:53:38.770Z",
+    "timestamp": "2024-06-26T13:22:08.315Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -810,6 +810,20 @@
             "name": "SSS",
             "symbol": "SSS",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xfd4d19f9fbb9f730c3c88a21755832bd2455144e.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+            "name": "Blast",
+            "symbol": "BLAST",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xdC60C24de182b07CB3f3A9269F120d8c15c4b381",
+            "name": "Digital Art Movement",
+            "symbol": "DAM",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xdc60c24de182b07cb3f3a9269f120d8c15c4b381.png"
         },
         {
             "chainId": 1168587773,

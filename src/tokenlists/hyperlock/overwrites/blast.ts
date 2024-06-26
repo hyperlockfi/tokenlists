@@ -364,5 +364,13 @@ export const blastOverrides = {
       name: 'SSS',
       symbol: 'SSS',
     },
+	'0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad': {
+		name: 'Blast',
+		symbol: 'BLAST',
+	},
+	'0xdc60c24de182b07cb3f3a9269f120d8c15c4b381': {
+		name: 'Digital Art Movement',
+		symbol: 'DAM',
+	},
   },
 }
