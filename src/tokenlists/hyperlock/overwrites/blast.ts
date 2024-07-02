@@ -372,5 +372,9 @@ export const blastOverrides = {
 		name: 'Digital Art Movement',
 		symbol: 'DAM',
 	},
+	'0xa027a3a04b44f79560153234e999b17c88e22db9': {
+		name: 'Particle',
+		symbol: 'PTC',
+	},
   },
 }

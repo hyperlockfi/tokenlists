@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-06-26T13:22:08.315Z",
+    "timestamp": "2024-07-02T20:16:46.746Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -824,6 +824,13 @@
             "name": "Digital Art Movement",
             "symbol": "DAM",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xdc60c24de182b07cb3f3a9269f120d8c15c4b381.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xa027a3A04b44f79560153234E999b17C88e22DB9",
+            "name": "Particle",
+            "symbol": "PTC",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xa027a3a04b44f79560153234e999b17c88e22db9.png"
         },
         {
             "chainId": 1168587773,

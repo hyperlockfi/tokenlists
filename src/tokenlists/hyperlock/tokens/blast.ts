@@ -117,4 +117,5 @@ export default [
   '0xfd4d19f9fbb9f730c3c88a21755832bd2455144e', // SSS
 	'0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad', // Blast
 	'0xdc60c24de182b07cb3f3a9269f120d8c15c4b381', // Digital Art Movement
+	'0xa027a3a04b44f79560153234e999b17c88e22db9', // Particle
 ]
