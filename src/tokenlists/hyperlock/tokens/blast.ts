@@ -118,4 +118,5 @@ export default [
 	'0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad', // Blast
 	'0xdc60c24de182b07cb3f3a9269f120d8c15c4b381', // Digital Art Movement
 	'0xa027a3a04b44f79560153234e999b17c88e22db9', // Particle
+	'0x52056ed29fe015f4ba2e3b079d10c0b87f46e8c6', // USDz
 ]

@@ -376,5 +376,9 @@ export const blastOverrides = {
 		name: 'Particle',
 		symbol: 'PTC',
 	},
+	'0x52056ed29fe015f4ba2e3b079d10c0b87f46e8c6': {
+		name: 'USDz',
+		symbol: 'USDz',
+	},
   },
 }
