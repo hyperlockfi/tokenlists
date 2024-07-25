@@ -376,6 +376,14 @@ export const blastOverrides = {
 		name: 'Particle',
 		symbol: 'PTC',
 	},
+	'0x9e92c0b2b84ddac571bde330c4b44096a7c99909': {
+		name: 'Tornado',
+		symbol: 'TRNDO',
+	},
+	'0xa5370b8e2413b23ea16f3b78d1d1ba3969678227': {
+		name: 'Wrapped SOL',
+		symbol: 'wSOL',
+	},
 	'0x52056ed29fe015f4ba2e3b079d10c0b87f46e8c6': {
 		name: 'USDz',
 		symbol: 'USDz',
