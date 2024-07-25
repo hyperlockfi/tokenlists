@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-07-25T13:47:58.392Z",
+    "timestamp": "2024-07-25T13:58:45.266Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -845,6 +845,13 @@
             "name": "Wrapped SOL",
             "symbol": "wSOL",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xa5370b8e2413b23ea16f3b78d1d1ba3969678227.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x52056ED29Fe015f4Ba2e3b079D10C0B87f46e8c6",
+            "name": "USDz",
+            "symbol": "USDz",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x52056ed29fe015f4ba2e3b079d10c0b87f46e8c6.png"
         },
         {
             "chainId": 1168587773,
