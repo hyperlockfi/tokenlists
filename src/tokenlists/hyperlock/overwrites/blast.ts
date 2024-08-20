@@ -389,5 +389,9 @@ export const blastOverrides = {
 		name: 'USDz',
 		symbol: 'USDz',
 	},
+	'0xbb4e01b8940e8e2b3a95ced7941969d033786ff7': {
+		name: 'Affine ultraETHs 2.0',
+		symbol: 'ultraETHs',
+	},
 	},
 }
