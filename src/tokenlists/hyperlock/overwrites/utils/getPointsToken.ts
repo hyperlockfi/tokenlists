@@ -20,6 +20,8 @@ type Key =
   | 'TURTLE'
   | 'SPLICE'
   | 'FXN'
+  | 'AFFINE'
+  | 'SYMBIOTIC'
 
 const data: Record<Key, Omit<Token, 'address'>> = {
   JUICE: {
@@ -91,6 +93,16 @@ const data: Record<Key, Omit<Token, 'address'>> = {
     name: 'FXN',
     symbol: 'FXN',
     logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'fxn'}.png`,
+  },
+  AFFINE: {
+    name: 'AFFINE',
+    symbol: 'AFFINE',
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'affine'}.png`,
+  },
+  SYMBIOTIC: {
+    name: 'SYMBIOTIC',
+    symbol: 'SYMBIOTIC',
+    logoURI: `https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/points/${'symbiotic'}.png`,
   },
 }
 
