@@ -124,4 +124,6 @@ export default [
 	'0xa5370b8e2413b23ea16f3b78d1d1ba3969678227', // Wrapped SOL
 	'0x52056ed29fe015f4ba2e3b079d10c0b87f46e8c6', // USDz
 	'0xbb4e01b8940e8e2b3a95ced7941969d033786ff7', // Affine ultraETHs 2.0
+	'0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6', // BlastUP Token
+	'0xd85f663effcaa5d44fa69b0d5c0dc02b20957c86', // WrappedHypersound
 ]

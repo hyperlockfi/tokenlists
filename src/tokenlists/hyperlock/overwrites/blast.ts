@@ -395,5 +395,13 @@ export const blastOverrides = {
 		name: 'Affine ultraETHs 2.0',
 		symbol: 'ultraETHs',
 	},
+	'0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6': {
+		name: 'BlastUP Token',
+		symbol: 'BLASTUP',
+	},
+	'0xd85f663effcaa5d44fa69b0d5c0dc02b20957c86': {
+		name: 'WrappedHypersound',
+		symbol: 'WHYPERS',
+	},
 	},
 }

@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-08-21T11:27:57.463Z",
+    "timestamp": "2024-08-27T09:43:51.776Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -873,6 +873,20 @@
             "name": "Affine ultraETHs 2.0",
             "symbol": "ultraETHs",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xbb4e01b8940e8e2b3a95ced7941969d033786ff7.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x59c159e5a4F4d1C86F7aBDC94B7907B7473477F6",
+            "name": "BlastUP Token",
+            "symbol": "BLASTUP",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xd85F663EffcAA5D44fa69b0D5c0dc02B20957c86",
+            "name": "WrappedHypersound",
+            "symbol": "WHYPERS",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd85f663effcaa5d44fa69b0d5c0dc02b20957c86.png"
         },
         {
             "chainId": 1168587773,
