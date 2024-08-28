@@ -403,5 +403,9 @@ export const blastOverrides = {
 		name: 'WrappedHypersound',
 		symbol: 'WHYPERS',
 	},
+  '0x578122317baca7a3c7bb5301460d2f4f96e9394a': {
+    name: 'Davos.xyz USD',
+    symbol: 'DUSD',
+  },
 	},
 }

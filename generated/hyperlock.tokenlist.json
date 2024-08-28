@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-08-27T09:43:51.776Z",
+    "timestamp": "2024-08-28T12:06:04.129Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -887,6 +887,13 @@
             "name": "WrappedHypersound",
             "symbol": "WHYPERS",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xd85f663effcaa5d44fa69b0d5c0dc02b20957c86.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x578122317baCa7A3C7BB5301460d2f4F96E9394A",
+            "name": "Davos.xyz USD",
+            "symbol": "DUSD",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x578122317baca7a3c7bb5301460d2f4f96e9394a.png"
         },
         {
             "chainId": 1168587773,
