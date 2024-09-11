@@ -407,5 +407,13 @@ export const blastOverrides = {
     name: 'Davos.xyz USD',
     symbol: 'DUSD',
   },
+	'0x010392305558d58e1cb0eec5529a65bf3545f82e': {
+		name: 'MACHI',
+		symbol: 'MACHI',
+	},
+	'0xf8797db8a9eed416ca14e8dfaede2bf4e1aabfc3': {
+		name: 'Hypersound',
+		symbol: 'HYPERS',
+	},
 	},
 }

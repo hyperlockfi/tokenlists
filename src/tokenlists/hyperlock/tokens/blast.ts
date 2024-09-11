@@ -127,4 +127,6 @@ export default [
 	'0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6', // BlastUP Token
   '0xd85f663effcaa5d44fa69b0d5c0dc02b20957c86', // WrappedHypersound
   '0x578122317baca7a3c7bb5301460d2f4f96e9394a', // Davos.xyz USD
+	'0x010392305558d58e1cb0eec5529a65bf3545f82e', // MACHI
+	'0xf8797db8a9eed416ca14e8dfaede2bf4e1aabfc3', // Hypersound
 ]
