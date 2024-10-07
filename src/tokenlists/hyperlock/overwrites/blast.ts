@@ -415,5 +415,9 @@ export const blastOverrides = {
 		name: 'Hypersound',
 		symbol: 'HYPERS',
 	},
+  '0xec73284e4ec9bcea1a7dddf489eaa324c3f7dd31': {
+    name: 'HYPER',
+    symbol: 'HYPER',
+  }
 	},
 }

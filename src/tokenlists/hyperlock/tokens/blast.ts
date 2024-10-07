@@ -129,4 +129,5 @@ export default [
   '0x578122317baca7a3c7bb5301460d2f4f96e9394a', // Davos.xyz USD
 	'0x010392305558d58e1cb0eec5529a65bf3545f82e', // MACHI
 	'0xf8797db8a9eed416ca14e8dfaede2bf4e1aabfc3', // Hypersound
+  '0xec73284e4ec9bcea1a7dddf489eaa324c3f7dd31', // HYPER
 ]
