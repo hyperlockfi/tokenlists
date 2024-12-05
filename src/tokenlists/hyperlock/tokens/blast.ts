@@ -130,4 +130,7 @@ export default [
 	'0x010392305558d58e1cb0eec5529a65bf3545f82e', // MACHI
 	'0xf8797db8a9eed416ca14e8dfaede2bf4e1aabfc3', // Hypersound
   '0xec73284e4ec9bcea1a7dddf489eaa324c3f7dd31', // HYPER
+	'0x135f9b3d5dec9d73c042cf380adfff95f4fe9e35', // PREON
+	'0xc19669a405067927865b40ea045a2baabbbe57f5', // STAR
+	'0xe36072dd051ce26261bf50cd966311cab62c596e', // Thruster
 ]
