@@ -18,7 +18,7 @@
         "Swap"
     ],
     "logoURI": "https://avatars.githubusercontent.com/u/154605801",
-    "timestamp": "2024-10-07T18:06:20.306Z",
+    "timestamp": "2024-12-13T09:38:24.984Z",
     "tokens": [
         {
             "chainId": 81457,
@@ -915,6 +915,34 @@
             "name": "HYPER",
             "symbol": "HYPER",
             "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xec73284e4ec9bcea1a7dddf489eaa324c3f7dd31.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x135f9B3D5DEC9D73C042Cf380AdFFF95f4Fe9E35",
+            "name": "PREON",
+            "symbol": "PREON",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x135f9b3d5dec9d73c042cf380adfff95f4fe9e35.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0x1BB5E4Dd6F18E8941fCe273379DF2223cD08C2da",
+            "name": "FLAPPY",
+            "symbol": "FLAPPY",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0x1bb5e4dd6f18e8941fce273379df2223cd08c2da.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+            "name": "STAR",
+            "symbol": "STAR",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xc19669a405067927865b40ea045a2baabbbe57f5.png"
+        },
+        {
+            "chainId": 81457,
+            "address": "0xE36072DD051Ce26261BF50CD966311cab62C596e",
+            "name": "Thruster",
+            "symbol": "THRUST",
+            "logoURI": "https://raw.githubusercontent.com/hyperlockfi/tokenlists/main/src/assets/images/tokens/0xe36072dd051ce26261bf50cd966311cab62c596e.png"
         },
         {
             "chainId": 1168587773,
