@@ -526,17 +526,5 @@ export const blastOverrides = {
 			name: "HYPER",
 			symbol: "HYPER",
 		},
-		"0x135f9b3d5dec9d73c042cf380adfff95f4fe9e35": {
-			name: "PREON",
-			symbol: "PREON",
-		},
-		"0xc19669a405067927865b40ea045a2baabbbe57f5": {
-			name: "STAR",
-			symbol: "STAR",
-		},
-		"0xe36072dd051ce26261bf50cd966311cab62c596e": {
-			name: "Thruster",
-			symbol: "THRUST",
-		},
 	},
 };
